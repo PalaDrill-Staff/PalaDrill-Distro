@@ -1,0 +1,88 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/edition.png",
+            "posX" : -90,
+            "posY" : 30,
+            "width" : 194,
+            "height" : 66,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 2,
+            "posY" : 120,
+            "width" : 70,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -70,
+            "posY" : 120,
+            "width" : 70,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        "play":
+        {
+            "text" : "\u00a7a\u00a7l\u25b6\u00a76\u00a7lConnect to the server",
+            "posX" : -100,
+            "posY" : 80,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "game1-fr.hosterfy.com:60514"
+            }
+        }
+        
+
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright \u00a76PalaDrill\u00a7f.",
+            "posX" : -100,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        "username":
+        {
+            "text" : "\u00a7aWelcome\u00a7b #username#\n\u00a7c\u00a7l#date#",
+            "posX" : -400,
+            "posY" : -230,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+    "other":
+    {
+        
+        "background":
+        {
+            "image" : "custommainmenu:textures/gui/menue/2.png",
+            "mode": "fill"
+        }
+    }
+}
