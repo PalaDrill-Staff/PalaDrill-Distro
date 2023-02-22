@@ -11,7 +11,7 @@
       "id": "PlayPalaDrill-1.12.2",
       "name": "Play PalaDrill",
       "description": "PlayPalaDrill",
-      "icon": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/icon.png",
+      "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/icon.png",
       "version": "1.2.1",
       "address": "game1-fr.hosterfy.com:60514",
       "minecraftVersion": "1.12.2",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4466148,
             "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-            "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 11799,
                 "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -230,7 +230,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -240,7 +240,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -250,7 +250,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "http://localhost:1337/files/PalaDrill-Distro/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             }
           ]
@@ -261,7 +261,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1119478,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/_mixinbootstrap-1.1.0.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/_mixinbootstrap-1.1.0.jar",
             "MD5": "9df0dc628ebcd787270f487fbbf8157a"
           }
         },
@@ -271,7 +271,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4746208,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/biomesoplenty-7.0.1.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/biomesoplenty-7.0.1.jar",
             "MD5": "9d364be3df6fee338c1729b7fb1def1b"
           }
         },
@@ -281,7 +281,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 96859,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/chameleon-1.12-4.1.3.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/chameleon-1.12-4.1.3.jar",
             "MD5": "e42efa8f4fd42d2918128a826b740e98"
           }
         },
@@ -291,7 +291,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4755282,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/chisel-MC1.12.2-1.0.2.45.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/chisel-MC1.12.2-1.0.2.45.jar",
             "MD5": "54afc298f94e708f0e1cdf399200b2cb"
           }
         },
@@ -301,7 +301,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 56210,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/classiccombat-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/classiccombat-1.0.0.jar",
             "MD5": "98c0ba7ffbd0a52d22f1b6d8444093bc"
           }
         },
@@ -311,7 +311,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 199045,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/ctm-MC1.12.2-1.0.2.31.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/ctm-MC1.12.2-1.0.2.31.jar",
             "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
           }
         },
@@ -321,7 +321,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1921313,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/custommainmenu-2.0.9.1.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/custommainmenu-2.0.9.1.jar",
             "MD5": "140122937fb9ce6fe7994134d34e012d"
           }
         },
@@ -331,7 +331,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9911871,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/customnpcs-1.12.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/customnpcs-1.12.jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
         },
@@ -341,7 +341,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1050203,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/fancymenu-2.13.3.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/fancymenu-2.13.3.jar",
             "MD5": "624b8bdfb9fcbea3eb1f9c4e127a9cb1"
           }
         },
@@ -351,7 +351,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 956692,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/ironchest-1.12.2-7.0.72.847.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/ironchest-1.12.2-7.0.72.847.jar",
             "MD5": "743179bc3a8f50751efbb019acc759a9"
           }
         },
@@ -361,7 +361,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 653210,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/jei-4.16.1.302.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/jei-4.16.1.302.jar",
             "MD5": "2dc4b6046812e64c514ff4d18bc5cb03"
           }
         },
@@ -371,7 +371,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 265325,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/justenoughdimensions-1.6.0-dev.20200416.184714.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/justenoughdimensions-1.6.0-dev.20200416.184714.jar",
             "MD5": "fea8d777d4f41330a2e1f245cbebc554"
           }
         },
@@ -381,28 +381,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 618151,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/konkrete-1.6.0.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/konkrete-1.6.0.jar",
             "MD5": "1812e95a402c0aae9b1f00add7216e58"
-          }
-        },
-        {
-          "id": "com.modularmods:mcgltf:1.12.2-Forge-2.0.3.0@jar",
-          "name": "MCglTF",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 558870,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/mcgltf-1.12.2-Forge-2.0.3.0.jar",
-            "MD5": "11df7853ab718b7d63cc9c93475552f4"
-          }
-        },
-        {
-          "id": "com.modularwarfare:modularwarfare:2.3.3f@jar",
-          "name": "ModularWarfare",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 86875233,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/modularwarfare-2.3.3f.jar",
-            "MD5": "9e1f02a1e74f266c52217aea2586f1ef"
           }
         },
         {
@@ -411,7 +391,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 177102,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/orespawn-3.3.1.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/orespawn-3.3.1.jar",
             "MD5": "21ff71bc5a8f0b30b26c7fce16f7fe92"
           }
         },
@@ -421,7 +401,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1765387,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/paladrillmod-1.5.1.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/paladrillmod-1.5.1.jar",
             "MD5": "23b293da0fe9be5f951e9c69908d2bbc"
           }
         },
@@ -431,7 +411,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16612,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/resourceloader-1.5.3.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/resourceloader-1.5.3.jar",
             "MD5": "51141e882f96ce756b9b3d25f2acdf57"
           }
         },
@@ -441,7 +421,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 343453,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/secretroomsmod-5.6.4.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/secretroomsmod-5.6.4.jar",
             "MD5": "d853b4060cf429ce7765a750501de764"
           }
         },
@@ -451,7 +431,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3178385,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/securitycraft-v1.9.5.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/securitycraft-v1.9.5.jar",
             "MD5": "742ded432b9c4852c48b24864f30e213"
           }
         },
@@ -461,7 +441,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 133644,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/simplecore-1.7.3.4.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/simplecore-1.7.3.4.jar",
             "MD5": "ddab2eebf48d203259e84aaa58173084"
           }
         },
@@ -471,7 +451,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 157767,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/simpleores-1.11.2.2.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/simpleores-1.11.2.2.jar",
             "MD5": "4fa468acd7dab8236bcb6424632c4647"
           }
         },
@@ -481,7 +461,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 605947,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/forgemods/required/storagedrawers-1.12.2-5.4.2.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/storagedrawers-1.12.2-5.4.2.jar",
             "MD5": "0f658c7cba3e6793abbcb934b4810902"
           }
         },
@@ -491,7 +471,7 @@
           "type": "File",
           "artifact": {
             "size": 885,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/AleXndr/simplecore.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/AleXndr/simplecore.cfg",
             "MD5": "783012a0ae0dd0249686f7cc81e80864",
             "path": "config/AleXndr/simplecore.cfg"
           }
@@ -502,7 +482,7 @@
           "type": "File",
           "artifact": {
             "size": 22556,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/AleXndr/simpleores.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/AleXndr/simpleores.cfg",
             "MD5": "525cd40c1763d69744bfcd885f379553",
             "path": "config/AleXndr/simpleores.cfg"
           }
@@ -513,7 +493,7 @@
           "type": "File",
           "artifact": {
             "size": 2018,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/CustomMainMenu/mainmenu.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/CustomMainMenu/mainmenu.json",
             "MD5": "c1c4b98c9afdf7ab0ed5b39f99a6b227",
             "path": "config/CustomMainMenu/mainmenu.json"
           }
@@ -524,7 +504,7 @@
           "type": "File",
           "artifact": {
             "size": 1551,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/CustomNpcs.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/CustomNpcs.cfg",
             "MD5": "701be8e8a918ec1bcd81906e4d539939",
             "path": "config/CustomNpcs.cfg"
           }
@@ -535,7 +515,7 @@
           "type": "File",
           "artifact": {
             "size": 1549,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biome_ids.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biome_ids.json",
             "MD5": "911455659c8807600ccdc27595386f43",
             "path": "config/biomesoplenty/biome_ids.json"
           }
@@ -546,7 +526,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/Put%20biome%20config%20files%20here",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/Put%20biome%20config%20files%20here",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/biomesoplenty/biomes/Put biome config files here"
           }
@@ -557,7 +537,7 @@
           "type": "File",
           "artifact": {
             "size": 1556,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/alps.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/alps.json",
             "MD5": "9d8c136bd1b627206e3df487fe79dc6c",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/alps.json"
           }
@@ -568,7 +548,7 @@
           "type": "File",
           "artifact": {
             "size": 2062,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/alps_foothills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/alps_foothills.json",
             "MD5": "ccd5ae7d8c424cd2597585225f5f829e",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/alps_foothills.json"
           }
@@ -579,7 +559,7 @@
           "type": "File",
           "artifact": {
             "size": 3295,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/bamboo_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/bamboo_forest.json",
             "MD5": "23d566d8dbc102fa9c99c3279d7adbb1",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/bamboo_forest.json"
           }
@@ -590,7 +570,7 @@
           "type": "File",
           "artifact": {
             "size": 5831,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/bayou.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/bayou.json",
             "MD5": "74abd7c0665d6335cd60cfac5a698310",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/bayou.json"
           }
@@ -601,7 +581,7 @@
           "type": "File",
           "artifact": {
             "size": 6352,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/bog.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/bog.json",
             "MD5": "01962f70e36f70fc04da48207dbc71fe",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/bog.json"
           }
@@ -612,7 +592,7 @@
           "type": "File",
           "artifact": {
             "size": 3148,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/boreal_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/boreal_forest.json",
             "MD5": "a7fdd616845989cfca23aacc7519d561",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/boreal_forest.json"
           }
@@ -623,7 +603,7 @@
           "type": "File",
           "artifact": {
             "size": 2706,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/brushland.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/brushland.json",
             "MD5": "2566d23379859130e4d6e0243b7c50b8",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/brushland.json"
           }
@@ -634,7 +614,7 @@
           "type": "File",
           "artifact": {
             "size": 3695,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/chaparral.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/chaparral.json",
             "MD5": "b3b670d29feabf549b907ff0c19af432",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/chaparral.json"
           }
@@ -645,7 +625,7 @@
           "type": "File",
           "artifact": {
             "size": 4346,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/cherry_blossom_grove.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/cherry_blossom_grove.json",
             "MD5": "cf7347294f75551af2d46f73a57f102e",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/cherry_blossom_grove.json"
           }
@@ -656,7 +636,7 @@
           "type": "File",
           "artifact": {
             "size": 2348,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/cold_desert.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/cold_desert.json",
             "MD5": "387138af2c9606ea50e82abefd15ec40",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/cold_desert.json"
           }
@@ -667,7 +647,7 @@
           "type": "File",
           "artifact": {
             "size": 4778,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/coniferous_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/coniferous_forest.json",
             "MD5": "09a6f87ec92b5d3f452f8f4387869a57",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/coniferous_forest.json"
           }
@@ -678,7 +658,7 @@
           "type": "File",
           "artifact": {
             "size": 2999,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/coral_reef.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/coral_reef.json",
             "MD5": "e4c7b8a37036691d192f6b84309044c3",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/coral_reef.json"
           }
@@ -689,7 +669,7 @@
           "type": "File",
           "artifact": {
             "size": 1661,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/corrupted_sands.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/corrupted_sands.json",
             "MD5": "df19968df1cc881d7f36f048b5ddf785",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/corrupted_sands.json"
           }
@@ -700,7 +680,7 @@
           "type": "File",
           "artifact": {
             "size": 2402,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/crag.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/crag.json",
             "MD5": "c5874ebf9c142ba36f6d2c518bba2afb",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/crag.json"
           }
@@ -711,7 +691,7 @@
           "type": "File",
           "artifact": {
             "size": 2849,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/dead_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/dead_forest.json",
             "MD5": "0987e23015420a891f7bb0da237995f2",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/dead_forest.json"
           }
@@ -722,7 +702,7 @@
           "type": "File",
           "artifact": {
             "size": 3360,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/dead_swamp.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/dead_swamp.json",
             "MD5": "90ccb0c3f197cadf0706f68afc0debd3",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/dead_swamp.json"
           }
@@ -733,7 +713,7 @@
           "type": "File",
           "artifact": {
             "size": 3821,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/eucalyptus_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/eucalyptus_forest.json",
             "MD5": "d4a69a39a13faa091b4edcee601da336",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/eucalyptus_forest.json"
           }
@@ -744,7 +724,7 @@
           "type": "File",
           "artifact": {
             "size": 5001,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/fen.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/fen.json",
             "MD5": "aa32c2ee4b7288fab17bb379156e28d6",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/fen.json"
           }
@@ -755,7 +735,7 @@
           "type": "File",
           "artifact": {
             "size": 1999,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/flower_field.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/flower_field.json",
             "MD5": "fc52f6e5aaeaf190b87e44ee43ddabb6",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/flower_field.json"
           }
@@ -766,7 +746,7 @@
           "type": "File",
           "artifact": {
             "size": 2723,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/flower_island.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/flower_island.json",
             "MD5": "fa7e270f674cf1a2a6739898be0fb120",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/flower_island.json"
           }
@@ -777,7 +757,7 @@
           "type": "File",
           "artifact": {
             "size": 2154,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/fungi_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/fungi_forest.json",
             "MD5": "9233edc809ecf15bfcf0358d8d27f052",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/fungi_forest.json"
           }
@@ -788,7 +768,7 @@
           "type": "File",
           "artifact": {
             "size": 1613,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/glacier.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/glacier.json",
             "MD5": "c0562dae8b7efb85963dcf2bee84e769",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/glacier.json"
           }
@@ -799,7 +779,7 @@
           "type": "File",
           "artifact": {
             "size": 4182,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/grassland.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/grassland.json",
             "MD5": "8df56cf0e85d8f9f30bd44baca6740ab",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/grassland.json"
           }
@@ -810,7 +790,7 @@
           "type": "File",
           "artifact": {
             "size": 1352,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/gravel_beach.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/gravel_beach.json",
             "MD5": "73a4faf75b0f075b03365adce3dc9bb0",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/gravel_beach.json"
           }
@@ -821,7 +801,7 @@
           "type": "File",
           "artifact": {
             "size": 3201,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/grove.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/grove.json",
             "MD5": "e1a2fae91fe63c265af2154fdf932806",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/grove.json"
           }
@@ -832,7 +812,7 @@
           "type": "File",
           "artifact": {
             "size": 1723,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/highland.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/highland.json",
             "MD5": "8413d7ad87d5e21c2fb13a08f2760867",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/highland.json"
           }
@@ -843,7 +823,7 @@
           "type": "File",
           "artifact": {
             "size": 2676,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/kelp_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/kelp_forest.json",
             "MD5": "30bd2deb8e4b2924a15cc2bd4ff4769d",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/kelp_forest.json"
           }
@@ -854,7 +834,7 @@
           "type": "File",
           "artifact": {
             "size": 4921,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/land_of_lakes.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/land_of_lakes.json",
             "MD5": "5531f72ab132abedfd7856168bd4dc08",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/land_of_lakes.json"
           }
@@ -865,7 +845,7 @@
           "type": "File",
           "artifact": {
             "size": 2178,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/lavender_fields.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/lavender_fields.json",
             "MD5": "bef514e62013f2dbcad9f2934102531d",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/lavender_fields.json"
           }
@@ -876,7 +856,7 @@
           "type": "File",
           "artifact": {
             "size": 5246,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/lush_desert.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/lush_desert.json",
             "MD5": "04020daf4620cb5a2018ac3f8f00d3c3",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/lush_desert.json"
           }
@@ -887,7 +867,7 @@
           "type": "File",
           "artifact": {
             "size": 7079,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/lush_swamp.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/lush_swamp.json",
             "MD5": "27389954ecf8dff1417bd88b4a0fbdc6",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/lush_swamp.json"
           }
@@ -898,7 +878,7 @@
           "type": "File",
           "artifact": {
             "size": 2047,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/mangrove.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/mangrove.json",
             "MD5": "1ded78212a31f33a471401257c095aba",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/mangrove.json"
           }
@@ -909,7 +889,7 @@
           "type": "File",
           "artifact": {
             "size": 2893,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/maple_woods.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/maple_woods.json",
             "MD5": "6314f4c697eb20c0fd273bb7c41c8127",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/maple_woods.json"
           }
@@ -920,7 +900,7 @@
           "type": "File",
           "artifact": {
             "size": 2958,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/marsh.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/marsh.json",
             "MD5": "0aae58041cacc51b509877d9188c2d4a",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/marsh.json"
           }
@@ -931,7 +911,7 @@
           "type": "File",
           "artifact": {
             "size": 5045,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/meadow.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/meadow.json",
             "MD5": "1c04b1f069a50490634f863a1eba1c28",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/meadow.json"
           }
@@ -942,7 +922,7 @@
           "type": "File",
           "artifact": {
             "size": 3891,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/moor.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/moor.json",
             "MD5": "19ba9e97d2f001ffc0162bec36604c78",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/moor.json"
           }
@@ -953,7 +933,7 @@
           "type": "File",
           "artifact": {
             "size": 2911,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/mountain.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/mountain.json",
             "MD5": "3d37dd3b24d9d5d7672989d6d99655e8",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/mountain.json"
           }
@@ -964,7 +944,7 @@
           "type": "File",
           "artifact": {
             "size": 3798,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/mountain_foothills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/mountain_foothills.json",
             "MD5": "48bd60e2473b3d2f2f5bcb76d5741a57",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/mountain_foothills.json"
           }
@@ -975,7 +955,7 @@
           "type": "File",
           "artifact": {
             "size": 5620,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/mystic_grove.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/mystic_grove.json",
             "MD5": "32583f83cbff48aa7a4a988b0ce7e565",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/mystic_grove.json"
           }
@@ -986,7 +966,7 @@
           "type": "File",
           "artifact": {
             "size": 3272,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/oasis.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/oasis.json",
             "MD5": "ecdc3ef0d8dd64912b38ae133d539573",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/oasis.json"
           }
@@ -997,7 +977,7 @@
           "type": "File",
           "artifact": {
             "size": 3927,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/ominous_woods.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/ominous_woods.json",
             "MD5": "41a94b99dc1633007413fe4297ab51f6",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/ominous_woods.json"
           }
@@ -1008,7 +988,7 @@
           "type": "File",
           "artifact": {
             "size": 3149,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/orchard.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/orchard.json",
             "MD5": "ab55509df7aa61829c4340ddebc6a2f4",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/orchard.json"
           }
@@ -1019,7 +999,7 @@
           "type": "File",
           "artifact": {
             "size": 1412,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/origin_beach.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/origin_beach.json",
             "MD5": "fd7aeda2eafd2c1886a601bce38d4c50",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/origin_beach.json"
           }
@@ -1030,7 +1010,7 @@
           "type": "File",
           "artifact": {
             "size": 2101,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/origin_island.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/origin_island.json",
             "MD5": "a0630883aceaa3e6cb01c6d19c4cb058",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/origin_island.json"
           }
@@ -1041,7 +1021,7 @@
           "type": "File",
           "artifact": {
             "size": 3130,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/outback.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/outback.json",
             "MD5": "d048a7c431f8a8d083944cdaf5070a00",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/outback.json"
           }
@@ -1052,7 +1032,7 @@
           "type": "File",
           "artifact": {
             "size": 2168,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/overgrown_cliffs.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/overgrown_cliffs.json",
             "MD5": "cc382c5e26f21f8fc7342cbc256b0cbb",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/overgrown_cliffs.json"
           }
@@ -1063,7 +1043,7 @@
           "type": "File",
           "artifact": {
             "size": 2289,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/pasture.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/pasture.json",
             "MD5": "ddcef49def0e1e1cf2ac8e336cecef60",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/pasture.json"
           }
@@ -1074,7 +1054,7 @@
           "type": "File",
           "artifact": {
             "size": 1632,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/phantasmagoric_inferno.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/phantasmagoric_inferno.json",
             "MD5": "24a8c4ec4094d5885b2359d9772a16e1",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/phantasmagoric_inferno.json"
           }
@@ -1085,7 +1065,7 @@
           "type": "File",
           "artifact": {
             "size": 3657,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/prairie.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/prairie.json",
             "MD5": "0cf65d8e7341fbd2a4c67e5530581139",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/prairie.json"
           }
@@ -1096,7 +1076,7 @@
           "type": "File",
           "artifact": {
             "size": 3850,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/quagmire.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/quagmire.json",
             "MD5": "7912c19e2b642ed130474824e42bb0c2",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/quagmire.json"
           }
@@ -1107,7 +1087,7 @@
           "type": "File",
           "artifact": {
             "size": 4257,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/rainforest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/rainforest.json",
             "MD5": "9417841b767c76d290fac2678d7805b0",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/rainforest.json"
           }
@@ -1118,7 +1098,7 @@
           "type": "File",
           "artifact": {
             "size": 3567,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest.json",
             "MD5": "791ddebdeb7bcab2f8fb23b5a9d31591",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest.json"
           }
@@ -1129,7 +1109,7 @@
           "type": "File",
           "artifact": {
             "size": 3043,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest_edge.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest_edge.json",
             "MD5": "e2ebe8c3d53bae4d5dc006a156a640d0",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest_edge.json"
           }
@@ -1140,7 +1120,7 @@
           "type": "File",
           "artifact": {
             "size": 5402,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/sacred_springs.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/sacred_springs.json",
             "MD5": "0a049606d334ec91c8b158ca3efdc174",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/sacred_springs.json"
           }
@@ -1151,7 +1131,7 @@
           "type": "File",
           "artifact": {
             "size": 4783,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/seasonal_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/seasonal_forest.json",
             "MD5": "47aa29b2537fe3f78502d5711e28e32a",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/seasonal_forest.json"
           }
@@ -1162,7 +1142,7 @@
           "type": "File",
           "artifact": {
             "size": 4077,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/shield.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/shield.json",
             "MD5": "b871616505c244b046c4035a20bd20d6",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/shield.json"
           }
@@ -1173,7 +1153,7 @@
           "type": "File",
           "artifact": {
             "size": 4023,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/shrubland.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/shrubland.json",
             "MD5": "7eac71527dd868b6c9e193e37fbbd5ea",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/shrubland.json"
           }
@@ -1184,7 +1164,7 @@
           "type": "File",
           "artifact": {
             "size": 3120,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_coniferous_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_coniferous_forest.json",
             "MD5": "eff980a3d1896cf93d08a2918769a524",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_coniferous_forest.json"
           }
@@ -1195,7 +1175,7 @@
           "type": "File",
           "artifact": {
             "size": 2523,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_forest.json",
             "MD5": "194b291c04e407c1aafdd7a7be35cd91",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_forest.json"
           }
@@ -1206,7 +1186,7 @@
           "type": "File",
           "artifact": {
             "size": 3502,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_tundra.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_tundra.json",
             "MD5": "cec39e555a93e0a8e64c6100a6ffc9cd",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_tundra.json"
           }
@@ -1217,7 +1197,7 @@
           "type": "File",
           "artifact": {
             "size": 2500,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/steppe.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/steppe.json",
             "MD5": "9ddeca8d00f8e445e6a999238010f9b7",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/steppe.json"
           }
@@ -1228,7 +1208,7 @@
           "type": "File",
           "artifact": {
             "size": 7328,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/temperate_rainforest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/temperate_rainforest.json",
             "MD5": "c84c583b3d935e477c232d56d926f7a8",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/temperate_rainforest.json"
           }
@@ -1239,7 +1219,7 @@
           "type": "File",
           "artifact": {
             "size": 3159,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_island.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_island.json",
             "MD5": "f91fff668a8ffab2fff0886c5f0a1e46",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_island.json"
           }
@@ -1250,7 +1230,7 @@
           "type": "File",
           "artifact": {
             "size": 6032,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_rainforest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_rainforest.json",
             "MD5": "d2961c86126d8d91d8395568d6e1289e",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_rainforest.json"
           }
@@ -1261,7 +1241,7 @@
           "type": "File",
           "artifact": {
             "size": 3522,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/tundra.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/tundra.json",
             "MD5": "fa5d2f0e544b12bf6792b2d55d67a059",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/tundra.json"
           }
@@ -1272,7 +1252,7 @@
           "type": "File",
           "artifact": {
             "size": 2601,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/undergarden.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/undergarden.json",
             "MD5": "1a437ad2f01af7c296cdcc2cdc73e85d",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/undergarden.json"
           }
@@ -1283,7 +1263,7 @@
           "type": "File",
           "artifact": {
             "size": 1814,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/visceral_heap.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/visceral_heap.json",
             "MD5": "c774b81ee8315290ae07b1497988d682",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/visceral_heap.json"
           }
@@ -1294,7 +1274,7 @@
           "type": "File",
           "artifact": {
             "size": 2121,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/volcanic_island.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/volcanic_island.json",
             "MD5": "31189ec766848fa86a9598b503b00527",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/volcanic_island.json"
           }
@@ -1305,7 +1285,7 @@
           "type": "File",
           "artifact": {
             "size": 2968,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/wasteland.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/wasteland.json",
             "MD5": "f4256978a36f301b3eafd56033dbda5e",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/wasteland.json"
           }
@@ -1316,7 +1296,7 @@
           "type": "File",
           "artifact": {
             "size": 7028,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/wetland.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/wetland.json",
             "MD5": "8b61504aa1eba238b9d021d324d7f199",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/wetland.json"
           }
@@ -1327,7 +1307,7 @@
           "type": "File",
           "artifact": {
             "size": 1378,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/white_beach.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/white_beach.json",
             "MD5": "bc4717d7fb7f72ded63ad078fd20e443",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/white_beach.json"
           }
@@ -1338,7 +1318,7 @@
           "type": "File",
           "artifact": {
             "size": 4544,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/woodland.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/woodland.json",
             "MD5": "b7407f5d2fcd52e943ba8c1d5dfecf58",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/woodland.json"
           }
@@ -1349,7 +1329,7 @@
           "type": "File",
           "artifact": {
             "size": 3043,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/xeric_shrubland.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/biomesoplenty/xeric_shrubland.json",
             "MD5": "a51d3ef531186775ee6c865f9037c43d",
             "path": "config/biomesoplenty/biomes/defaults/biomesoplenty/xeric_shrubland.json"
           }
@@ -1360,7 +1340,7 @@
           "type": "File",
           "artifact": {
             "size": 1242,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/beaches.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/beaches.json",
             "MD5": "26f8055462660e07ba05db22dfd0dde2",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/beaches.json"
           }
@@ -1371,7 +1351,7 @@
           "type": "File",
           "artifact": {
             "size": 2912,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/birch_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/birch_forest.json",
             "MD5": "6dc1a361fe757680f0b7ef5ded015a8f",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/birch_forest.json"
           }
@@ -1382,7 +1362,7 @@
           "type": "File",
           "artifact": {
             "size": 2912,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/birch_forest_hills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/birch_forest_hills.json",
             "MD5": "6dc1a361fe757680f0b7ef5ded015a8f",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/birch_forest_hills.json"
           }
@@ -1393,7 +1373,7 @@
           "type": "File",
           "artifact": {
             "size": 1625,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/desert.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/desert.json",
             "MD5": "7ce1ec00c5837d019be2d264d56e2fd9",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/desert.json"
           }
@@ -1404,7 +1384,7 @@
           "type": "File",
           "artifact": {
             "size": 1293,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/desert_hills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/desert_hills.json",
             "MD5": "1a31bd848dea3fa0ac513a7b68461861",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/desert_hills.json"
           }
@@ -1415,7 +1395,7 @@
           "type": "File",
           "artifact": {
             "size": 1489,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/extreme_hills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/extreme_hills.json",
             "MD5": "658f257a263659408265bb93a6da2209",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/extreme_hills.json"
           }
@@ -1426,7 +1406,7 @@
           "type": "File",
           "artifact": {
             "size": 1489,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/extreme_hills_with_trees.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/extreme_hills_with_trees.json",
             "MD5": "658f257a263659408265bb93a6da2209",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/extreme_hills_with_trees.json"
           }
@@ -1437,7 +1417,7 @@
           "type": "File",
           "artifact": {
             "size": 3395,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/forest.json",
             "MD5": "a8b0db6fc0c3dd8386ff1bdc8d479124",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/forest.json"
           }
@@ -1448,7 +1428,7 @@
           "type": "File",
           "artifact": {
             "size": 3396,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/forest_hills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/forest_hills.json",
             "MD5": "b8fd11f96c373ad6e3f569644aebf623",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/forest_hills.json"
           }
@@ -1459,7 +1439,7 @@
           "type": "File",
           "artifact": {
             "size": 991,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/hell.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/hell.json",
             "MD5": "d6f6e1116848c7aa110cfc18b767d0fa",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/hell.json"
           }
@@ -1470,7 +1450,7 @@
           "type": "File",
           "artifact": {
             "size": 1252,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/ice_flats.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/ice_flats.json",
             "MD5": "1244b68859a0ee52fe1a2b305db95efe",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/ice_flats.json"
           }
@@ -1481,7 +1461,7 @@
           "type": "File",
           "artifact": {
             "size": 1252,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/ice_mountains.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/ice_mountains.json",
             "MD5": "1244b68859a0ee52fe1a2b305db95efe",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/ice_mountains.json"
           }
@@ -1492,7 +1472,7 @@
           "type": "File",
           "artifact": {
             "size": 1965,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/jungle.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/jungle.json",
             "MD5": "1e0514c7d9efb7decc2b616e2ff30af3",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/jungle.json"
           }
@@ -1503,7 +1483,7 @@
           "type": "File",
           "artifact": {
             "size": 1965,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/jungle_hills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/jungle_hills.json",
             "MD5": "1e0514c7d9efb7decc2b616e2ff30af3",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/jungle_hills.json"
           }
@@ -1514,7 +1494,7 @@
           "type": "File",
           "artifact": {
             "size": 1537,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/mesa.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/mesa.json",
             "MD5": "10eb03fb6d6d14eca596e9201241ae2c",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/mesa.json"
           }
@@ -1525,7 +1505,7 @@
           "type": "File",
           "artifact": {
             "size": 1537,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/mesa_clear_rock.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/mesa_clear_rock.json",
             "MD5": "10eb03fb6d6d14eca596e9201241ae2c",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/mesa_clear_rock.json"
           }
@@ -1536,7 +1516,7 @@
           "type": "File",
           "artifact": {
             "size": 2303,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/mushroom_island.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/mushroom_island.json",
             "MD5": "23f9ac3d6be80c55ab7348d8ae346ef3",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/mushroom_island.json"
           }
@@ -1547,7 +1527,7 @@
           "type": "File",
           "artifact": {
             "size": 2990,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/mutated_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/mutated_forest.json",
             "MD5": "94dbc7408a4fba0f8a9f89b36102ab2e",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/mutated_forest.json"
           }
@@ -1558,7 +1538,7 @@
           "type": "File",
           "artifact": {
             "size": 1056,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/ocean.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/ocean.json",
             "MD5": "45377160147fc376ec0fe7d5186f12bc",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/ocean.json"
           }
@@ -1569,7 +1549,7 @@
           "type": "File",
           "artifact": {
             "size": 1248,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/plains.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/plains.json",
             "MD5": "2493822102ab7103c163884fac4071a6",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/plains.json"
           }
@@ -1580,7 +1560,7 @@
           "type": "File",
           "artifact": {
             "size": 1261,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga.json",
             "MD5": "dc0c0c80534df7052c4f379e79f6e6c3",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga.json"
           }
@@ -1591,7 +1571,7 @@
           "type": "File",
           "artifact": {
             "size": 1261,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga_hills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga_hills.json",
             "MD5": "dc0c0c80534df7052c4f379e79f6e6c3",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga_hills.json"
           }
@@ -1602,7 +1582,7 @@
           "type": "File",
           "artifact": {
             "size": 1390,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/roofed_forest.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/roofed_forest.json",
             "MD5": "018c1afa62feb3bb4d91a545be787b71",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/roofed_forest.json"
           }
@@ -1613,7 +1593,7 @@
           "type": "File",
           "artifact": {
             "size": 1574,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/savanna.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/savanna.json",
             "MD5": "bc155bedfa9b8e7fa79bb92d902e60e2",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/savanna.json"
           }
@@ -1624,7 +1604,7 @@
           "type": "File",
           "artifact": {
             "size": 1242,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/savanna_rock.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/savanna_rock.json",
             "MD5": "aa5ff082ca7ca5b0f6bb4ee7515c9d70",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/savanna_rock.json"
           }
@@ -1635,7 +1615,7 @@
           "type": "File",
           "artifact": {
             "size": 1524,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/sky.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/sky.json",
             "MD5": "7e819abe295fd5e336b598b9f45543b3",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/sky.json"
           }
@@ -1646,7 +1626,7 @@
           "type": "File",
           "artifact": {
             "size": 4195,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/swampland.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/swampland.json",
             "MD5": "3884000d354be40060400521d6e2937c",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/swampland.json"
           }
@@ -1657,7 +1637,7 @@
           "type": "File",
           "artifact": {
             "size": 1261,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/taiga.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/taiga.json",
             "MD5": "dc0c0c80534df7052c4f379e79f6e6c3",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/taiga.json"
           }
@@ -1668,7 +1648,7 @@
           "type": "File",
           "artifact": {
             "size": 1252,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/taiga_cold.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/taiga_cold.json",
             "MD5": "e6ed1b374f13d03fc14fd11875e3fd52",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/taiga_cold.json"
           }
@@ -1679,7 +1659,7 @@
           "type": "File",
           "artifact": {
             "size": 1252,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/taiga_cold_hills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/taiga_cold_hills.json",
             "MD5": "e6ed1b374f13d03fc14fd11875e3fd52",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/taiga_cold_hills.json"
           }
@@ -1690,7 +1670,7 @@
           "type": "File",
           "artifact": {
             "size": 1261,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/taiga_hills.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/biomes/defaults/vanilla/taiga_hills.json",
             "MD5": "dc0c0c80534df7052c4f379e79f6e6c3",
             "path": "config/biomesoplenty/biomes/defaults/vanilla/taiga_hills.json"
           }
@@ -1701,7 +1681,7 @@
           "type": "File",
           "artifact": {
             "size": 172,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/gameplay.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/gameplay.cfg",
             "MD5": "3b208b049aa5572878d916339b4e9f37",
             "path": "config/biomesoplenty/gameplay.cfg"
           }
@@ -1712,7 +1692,7 @@
           "type": "File",
           "artifact": {
             "size": 459,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/misc.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/misc.cfg",
             "MD5": "ad2000164dc84abd3d5e71abb700502b",
             "path": "config/biomesoplenty/misc.cfg"
           }
@@ -1723,7 +1703,7 @@
           "type": "File",
           "artifact": {
             "size": 4835,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/chisel.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/chisel.cfg",
             "MD5": "07a1da072e347ccc6c60439199c6e0a8",
             "path": "config/chisel.cfg"
           }
@@ -1734,7 +1714,7 @@
           "type": "File",
           "artifact": {
             "size": 166,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/citresewn.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/citresewn.json",
             "MD5": "215c7099e34662f60cd2409ecfcbe76a",
             "path": "config/citresewn.json"
           }
@@ -1745,7 +1725,7 @@
           "type": "File",
           "artifact": {
             "size": 240,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/ctm.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/ctm.cfg",
             "MD5": "ca9092804c3d5576e34098746b2843ff",
             "path": "config/ctm.cfg"
           }
@@ -1756,7 +1736,7 @@
           "type": "File",
           "artifact": {
             "size": 1717,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/config.txt",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/config.txt",
             "MD5": "4ba883aa0f6b2ca4f1d251f560c9cf27",
             "path": "config/fancymenu/config.txt"
           }
@@ -1767,7 +1747,7 @@
           "type": "File",
           "artifact": {
             "size": 168,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/customizablemenus.txt",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/customizablemenus.txt",
             "MD5": "e5db92a8e4214e3ec0d57fd980c3f3ff",
             "path": "config/fancymenu/customizablemenus.txt"
           }
@@ -1778,7 +1758,7 @@
           "type": "File",
           "artifact": {
             "size": 429,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/customization/pause.txt",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/customization/pause.txt",
             "MD5": "e4cda2343f71591b77a0c6d137c28fe7",
             "path": "config/fancymenu/customization/pause.txt"
           }
@@ -1789,7 +1769,7 @@
           "type": "File",
           "artifact": {
             "size": 889,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/customization/server.txt",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/customization/server.txt",
             "MD5": "27f0521dc221f083ac1e17a10feefa0e",
             "path": "config/fancymenu/customization/server.txt"
           }
@@ -1800,7 +1780,7 @@
           "type": "File",
           "artifact": {
             "size": 27376,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/de_de.local",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/de_de.local",
             "MD5": "f43e602abc1b3081611a3ee39efa0bdd",
             "path": "config/fancymenu/locals/de_de.local"
           }
@@ -1811,7 +1791,7 @@
           "type": "File",
           "artifact": {
             "size": 103876,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/en_us.local",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/en_us.local",
             "MD5": "25ef57036038953fb99f5d8f2d194b5e",
             "path": "config/fancymenu/locals/en_us.local"
           }
@@ -1822,7 +1802,7 @@
           "type": "File",
           "artifact": {
             "size": 13858,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/pl_pl.local",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/pl_pl.local",
             "MD5": "22c68afab02c97f21832b904a5e4413c",
             "path": "config/fancymenu/locals/pl_pl.local"
           }
@@ -1833,7 +1813,7 @@
           "type": "File",
           "artifact": {
             "size": 14283,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/pt_br.local",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/pt_br.local",
             "MD5": "9a91316e7c6e61a7a1e0874f34f77482",
             "path": "config/fancymenu/locals/pt_br.local"
           }
@@ -1844,7 +1824,7 @@
           "type": "File",
           "artifact": {
             "size": 52106,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/zh_cn.local",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/locals/zh_cn.local",
             "MD5": "20a74fbf1560def5e5528b78fb30fbfe",
             "path": "config/fancymenu/locals/zh_cn.local"
           }
@@ -1855,7 +1835,7 @@
           "type": "File",
           "artifact": {
             "size": 10497,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/menu_identifiers.db",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/menu_identifiers.db",
             "MD5": "7ea7268db5d58f0ed6b4ffe8bec943b9",
             "path": "config/fancymenu/menu_identifiers.db"
           }
@@ -1866,7 +1846,7 @@
           "type": "File",
           "artifact": {
             "size": 2479,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/minecraftwindow/icons/icon32x32.png",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/minecraftwindow/icons/icon32x32.png",
             "MD5": "29a0e6b29dca9dcbc5bca4217b15b379",
             "path": "config/fancymenu/minecraftwindow/icons/icon32x32.png"
           }
@@ -1877,7 +1857,7 @@
           "type": "File",
           "artifact": {
             "size": 45,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/user_variables.db",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/user_variables.db",
             "MD5": "df53aa33121fe63f1012e9f359ed7728",
             "path": "config/fancymenu/user_variables.db"
           }
@@ -1888,7 +1868,7 @@
           "type": "File",
           "artifact": {
             "size": 3955,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/forge.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/forge.cfg",
             "MD5": "bee77d51b82699b95bf5c02788f654fb",
             "path": "config/forge.cfg"
           }
@@ -1899,7 +1879,7 @@
           "type": "File",
           "artifact": {
             "size": 2285,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/forgeChunkLoading.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/forgeChunkLoading.cfg",
             "MD5": "6e00d5d246211b61587b3ee60bdde03a",
             "path": "config/forgeChunkLoading.cfg"
           }
@@ -1910,7 +1890,7 @@
           "type": "File",
           "artifact": {
             "size": 163,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/ironchest.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/ironchest.cfg",
             "MD5": "7b34c4495b7cdcc5143fcc86a795b68a",
             "path": "config/ironchest.cfg"
           }
@@ -1921,7 +1901,7 @@
           "type": "File",
           "artifact": {
             "size": 679,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/jei/itemBlacklist.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/jei/itemBlacklist.cfg",
             "MD5": "d1aa29b95c320167bb4a663534b04114",
             "path": "config/jei/itemBlacklist.cfg"
           }
@@ -1932,7 +1912,7 @@
           "type": "File",
           "artifact": {
             "size": 3028,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/jei/jei.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/jei/jei.cfg",
             "MD5": "c5ae6d93c28ed43266a5ea28cb4e51a3",
             "path": "config/jei/jei.cfg"
           }
@@ -1943,7 +1923,7 @@
           "type": "File",
           "artifact": {
             "size": 1994,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/jei/searchColors.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/jei/searchColors.cfg",
             "MD5": "585c420ac4e5433c27837a588927a0c0",
             "path": "config/jei/searchColors.cfg"
           }
@@ -1954,20 +1934,9 @@
           "type": "File",
           "artifact": {
             "size": 441,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/jei/worldSettings.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/jei/worldSettings.cfg",
             "MD5": "585d9ed7e5f64dd3a393599bde5ca0ca",
             "path": "config/jei/worldSettings.cfg"
-          }
-        },
-        {
-          "id": "justenoughdimensions.cfg",
-          "name": "justenoughdimensions.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 6319,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/justenoughdimensions/justenoughdimensions.cfg",
-            "MD5": "de5467944e2627dc2610505f7f9265e9",
-            "path": "config/justenoughdimensions/justenoughdimensions.cfg"
           }
         },
         {
@@ -1976,7 +1945,7 @@
           "type": "File",
           "artifact": {
             "size": 369,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/konkrete/locals/de_de.local",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/konkrete/locals/de_de.local",
             "MD5": "3aac3df2519057d2305f894c37771e30",
             "path": "config/konkrete/locals/de_de.local"
           }
@@ -1987,7 +1956,7 @@
           "type": "File",
           "artifact": {
             "size": 426,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/konkrete/locals/en_us.local",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/konkrete/locals/en_us.local",
             "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
             "path": "config/konkrete/locals/en_us.local"
           }
@@ -1998,7 +1967,7 @@
           "type": "File",
           "artifact": {
             "size": 313,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/konkrete/locals/pl_pl.local",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/konkrete/locals/pl_pl.local",
             "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
             "path": "config/konkrete/locals/pl_pl.local"
           }
@@ -2009,20 +1978,9 @@
           "type": "File",
           "artifact": {
             "size": 322,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/konkrete/locals/pt_br.local",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/konkrete/locals/pt_br.local",
             "MD5": "2d055da094c115b94f0e4373a2e06ebe",
             "path": "config/konkrete/locals/pt_br.local"
-          }
-        },
-        {
-          "id": "mcgltf.cfg",
-          "name": "mcgltf.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 717,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/mcgltf.cfg",
-            "MD5": "aac4530f166d750f782c658b0da2f935",
-            "path": "config/mcgltf.cfg"
           }
         },
         {
@@ -2031,7 +1989,7 @@
           "type": "File",
           "artifact": {
             "size": 714,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/orespawn.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/orespawn.cfg",
             "MD5": "3d685c4aad6e09523105250bd1485e91",
             "path": "config/orespawn.cfg"
           }
@@ -2042,7 +2000,7 @@
           "type": "File",
           "artifact": {
             "size": 5577,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/orespawn3/orespawn.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/orespawn3/orespawn.json",
             "MD5": "1e5fd21283eb63abc71bcae0ffff3d78",
             "path": "config/orespawn3/orespawn.json"
           }
@@ -2053,7 +2011,7 @@
           "type": "File",
           "artifact": {
             "size": 615,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/orespawn3/sysconf/features-orespawn.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/orespawn3/sysconf/features-orespawn.json",
             "MD5": "b65abebec5f5c97a495cef39fe52b454",
             "path": "config/orespawn3/sysconf/features-orespawn.json"
           }
@@ -2064,7 +2022,7 @@
           "type": "File",
           "artifact": {
             "size": 16,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/orespawn3/sysconf/known-configs.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/orespawn3/sysconf/known-configs.json",
             "MD5": "98bb357512cc808318ed7be262bffe12",
             "path": "config/orespawn3/sysconf/known-configs.json"
           }
@@ -2075,7 +2033,7 @@
           "type": "File",
           "artifact": {
             "size": 260,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/orespawn3/sysconf/replacements-orespawn.json",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/orespawn3/sysconf/replacements-orespawn.json",
             "MD5": "9ed6188feb1f0c417a2c0572604f4d44",
             "path": "config/orespawn3/sysconf/replacements-orespawn.json"
           }
@@ -2086,7 +2044,7 @@
           "type": "File",
           "artifact": {
             "size": 1288,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/secretroomsmod.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/secretroomsmod.cfg",
             "MD5": "09166fee453c2265c1360d8dbb5718ba",
             "path": "config/secretroomsmod.cfg"
           }
@@ -2097,7 +2055,7 @@
           "type": "File",
           "artifact": {
             "size": 3412,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/securitycraft.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/securitycraft.cfg",
             "MD5": "65f3042d847175d5d57955f8834418ec",
             "path": "config/securitycraft.cfg"
           }
@@ -2108,7 +2066,7 @@
           "type": "File",
           "artifact": {
             "size": 2828,
-            "url": "http://localhost:1337/files/PalaDrill-Distro/servers/PlayPalaDrill-1.12.2/files/config/storagedrawers.cfg",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/storagedrawers.cfg",
             "MD5": "d7487172fdd567b12f272ff3b8020417",
             "path": "config/storagedrawers.cfg"
           }
