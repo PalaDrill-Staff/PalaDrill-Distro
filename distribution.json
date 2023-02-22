@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "PlayPalaDrill-1.12.2",
-      "name": "Play PalaDrill",
-      "description": "PlayPalaDrill",
+      "name": "PalaDrill",
+      "description": "Play on PalaDrill's Server",
       "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/icon.png",
       "version": "1.2.1",
       "address": "game1-fr.hosterfy.com:60514",
@@ -2069,6 +2069,17 @@
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/storagedrawers.cfg",
             "MD5": "d7487172fdd567b12f272ff3b8020417",
             "path": "config/storagedrawers.cfg"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 77,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/servers.dat",
+            "MD5": "ce36299ba3e2472315e42083e11a2660",
+            "path": "servers.dat"
           }
         }
       ]
