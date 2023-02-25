@@ -704,6 +704,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 138,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.16.5/files/servers.dat",
+            "MD5": "ba4562adcefa68a92b1962f8f8e27d2a",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "2.png",
           "name": "2.png",
           "type": "File",
