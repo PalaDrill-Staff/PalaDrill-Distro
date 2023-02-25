@@ -397,16 +397,6 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.16.5.20220515@jar",
-          "name": "Custom NPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12457390,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
-            "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
-          }
-        },
-        {
           "id": "de.keksuccino:fancymenu:2.13.3@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
@@ -444,6 +434,16 @@
             "size": 642925,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.16.5/forgemods/required/konkrete_forge_1.6.0_MC_1.16.2-1.16.5.jar",
             "MD5": "e436464ed464ee3096eb11541096899f"
+          }
+        },
+        {
+          "id": "io.izzel.lightfall.client:lightfallclient:1.0.0+6@jar",
+          "name": "LightfallClient",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10739,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.16.5/forgemods/required/lightfallclient-1.0.0.jar",
+            "MD5": "a56ae58cc566f264140c15bb9d1447f2"
           }
         },
         {
@@ -708,9 +708,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 138,
+            "size": 77,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.16.5/files/servers.dat",
-            "MD5": "ba4562adcefa68a92b1962f8f8e27d2a",
+            "MD5": "ce36299ba3e2472315e42083e11a2660",
             "path": "servers.dat"
           }
         },
