@@ -9,18 +9,18 @@
   "servers": [
     {
       "id": "PalaDrill-1.16.5",
-      "name": "PalaDrill (Minecraft 1.16.5)",
-      "description": "PalaDrill Running Minecraft 1.16.5 (Forge v36.2.39)",
+      "name": "PalaDrill",
+      "description": "Run PalaDrill",
       "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.16.5/index.png",
-      "version": "1.0.0",
-      "address": "localhost:25565",
+      "version": "1.3.7",
+      "address": "game1-fr.hosterfy.com:60514",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {

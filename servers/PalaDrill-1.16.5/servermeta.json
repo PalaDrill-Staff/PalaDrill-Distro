@@ -1,16 +1,16 @@
 {
   "$schema": "file:///C:/Users/Administrator/Documents/GitHub/PalaDrill-Distro/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
-    "name": "PalaDrill (Minecraft 1.16.5)",
-    "description": "PalaDrill Running Minecraft 1.16.5 (Forge v36.2.39)",
-    "address": "localhost:25565",
+    "version": "1.3.7",
+    "name": "PalaDrill",
+    "description": "Run PalaDrill",
+    "address": "game1-fr.hosterfy.com:60514",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "forge": {
