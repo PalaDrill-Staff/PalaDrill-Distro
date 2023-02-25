@@ -11,7 +11,7 @@
       "id": "PalaDrill-1.16.5",
       "name": "PalaDrill (Minecraft 1.16.5)",
       "description": "PalaDrill Running Minecraft 1.16.5 (Forge v36.2.39)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.16.5/index.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
@@ -474,6 +474,16 @@
             "size": 241752,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.16.5/forgemods/required/secretrooms-1.16.5-1.1.4.jar",
             "MD5": "02a6ab3747981645111a94b78c0eb89f"
+          }
+        },
+        {
+          "id": "net.kaikk.mc:serverredirect:1.4.4a@jar",
+          "name": "ServerRedirect",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16572,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.16.5/forgemods/required/ServerRedirect-ForgeMC16-1.4.4a.jar",
+            "MD5": "8cf7236c4bbe52640fba1d28ce2aa77e"
           }
         },
         {
