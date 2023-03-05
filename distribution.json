@@ -386,16 +386,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
-          "name": "OptiFine 1.12.2_HD_U_G5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2669107,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
-            "MD5": "54e561e441192cf009803ae95873c5d0"
-          }
-        },
-        {
           "id": "com.mcmoddev:orespawn:3.3.1@jar",
           "name": "OreSpawn",
           "type": "ForgeMod",
