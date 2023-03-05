@@ -386,6 +386,16 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.12.2_HD_U_C7@jar",
+          "name": "OptiFine 1.12.2_HD_U_C7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2255775,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_C7.jar",
+            "MD5": "764b5b5a5d25f74443a7ff98a6d9171e"
+          }
+        },
+        {
           "id": "com.mcmoddev:orespawn:3.3.1@jar",
           "name": "OreSpawn",
           "type": "ForgeMod",
@@ -470,9 +480,9 @@
           "name": "simplecore.cfg",
           "type": "File",
           "artifact": {
-            "size": 885,
+            "size": 857,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/AleXndr/simplecore.cfg",
-            "MD5": "783012a0ae0dd0249686f7cc81e80864",
+            "MD5": "0495f53d896a25f8bd4dd34759b8f844",
             "path": "config/AleXndr/simplecore.cfg"
           }
         },
@@ -481,9 +491,9 @@
           "name": "simpleores.cfg",
           "type": "File",
           "artifact": {
-            "size": 22556,
+            "size": 21835,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/AleXndr/simpleores.cfg",
-            "MD5": "525cd40c1763d69744bfcd885f379553",
+            "MD5": "6060ebf572d592bd1ea063dbe59e4490",
             "path": "config/AleXndr/simpleores.cfg"
           }
         },
@@ -492,9 +502,9 @@
           "name": "mainmenu.json",
           "type": "File",
           "artifact": {
-            "size": 2018,
+            "size": 1931,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/CustomMainMenu/mainmenu.json",
-            "MD5": "c1c4b98c9afdf7ab0ed5b39f99a6b227",
+            "MD5": "3b33afa43ae8162dcc58e63bf6391fd3",
             "path": "config/CustomMainMenu/mainmenu.json"
           }
         },
@@ -503,9 +513,9 @@
           "name": "CustomNpcs.cfg",
           "type": "File",
           "artifact": {
-            "size": 1551,
+            "size": 1487,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/CustomNpcs.cfg",
-            "MD5": "701be8e8a918ec1bcd81906e4d539939",
+            "MD5": "bc073d34cf23574b9b7a97e11ab74664",
             "path": "config/CustomNpcs.cfg"
           }
         },
@@ -1680,9 +1690,9 @@
           "name": "gameplay.cfg",
           "type": "File",
           "artifact": {
-            "size": 172,
+            "size": 164,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/gameplay.cfg",
-            "MD5": "3b208b049aa5572878d916339b4e9f37",
+            "MD5": "8e49ce96ec9b7584eeb344f37d2243ed",
             "path": "config/biomesoplenty/gameplay.cfg"
           }
         },
@@ -1691,9 +1701,9 @@
           "name": "misc.cfg",
           "type": "File",
           "artifact": {
-            "size": 459,
+            "size": 442,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/biomesoplenty/misc.cfg",
-            "MD5": "ad2000164dc84abd3d5e71abb700502b",
+            "MD5": "4354ccf91660a6bb573c57b335e48fa7",
             "path": "config/biomesoplenty/misc.cfg"
           }
         },
@@ -1702,9 +1712,9 @@
           "name": "chisel.cfg",
           "type": "File",
           "artifact": {
-            "size": 4835,
+            "size": 4663,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/chisel.cfg",
-            "MD5": "07a1da072e347ccc6c60439199c6e0a8",
+            "MD5": "75e0270a341dd41759b18e3d97be12f4",
             "path": "config/chisel.cfg"
           }
         },
@@ -1724,9 +1734,9 @@
           "name": "ctm.cfg",
           "type": "File",
           "artifact": {
-            "size": 240,
+            "size": 229,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/ctm.cfg",
-            "MD5": "ca9092804c3d5576e34098746b2843ff",
+            "MD5": "9ada28a3eafd037ad08564012ee2fbe7",
             "path": "config/ctm.cfg"
           }
         },
@@ -1735,9 +1745,9 @@
           "name": "config.txt",
           "type": "File",
           "artifact": {
-            "size": 1717,
+            "size": 1716,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/config.txt",
-            "MD5": "4ba883aa0f6b2ca4f1d251f560c9cf27",
+            "MD5": "2eacbdc1f2115b919a440e307e10ce44",
             "path": "config/fancymenu/config.txt"
           }
         },
@@ -1746,9 +1756,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 168,
+            "size": 157,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "e5db92a8e4214e3ec0d57fd980c3f3ff",
+            "MD5": "0f3d3b2700d7c37f6103cbb4dae745de",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -1757,9 +1767,9 @@
           "name": "pause.txt",
           "type": "File",
           "artifact": {
-            "size": 429,
+            "size": 408,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/customization/pause.txt",
-            "MD5": "e4cda2343f71591b77a0c6d137c28fe7",
+            "MD5": "2c261355bdb0258f8b346f244385a74f",
             "path": "config/fancymenu/customization/pause.txt"
           }
         },
@@ -1768,9 +1778,9 @@
           "name": "server.txt",
           "type": "File",
           "artifact": {
-            "size": 889,
+            "size": 833,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/customization/server.txt",
-            "MD5": "27f0521dc221f083ac1e17a10feefa0e",
+            "MD5": "6452e39c4098b6715064a3d382b5648f",
             "path": "config/fancymenu/customization/server.txt"
           }
         },
@@ -1834,9 +1844,9 @@
           "name": "menu_identifiers.db",
           "type": "File",
           "artifact": {
-            "size": 10497,
+            "size": 10188,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/menu_identifiers.db",
-            "MD5": "7ea7268db5d58f0ed6b4ffe8bec943b9",
+            "MD5": "65c33f61d9372bcfc50579b7f39085e3",
             "path": "config/fancymenu/menu_identifiers.db"
           }
         },
@@ -1856,9 +1866,9 @@
           "name": "user_variables.db",
           "type": "File",
           "artifact": {
-            "size": 45,
+            "size": 40,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/fancymenu/user_variables.db",
-            "MD5": "df53aa33121fe63f1012e9f359ed7728",
+            "MD5": "eec0f310caf96daa823c26b23cdc031a",
             "path": "config/fancymenu/user_variables.db"
           }
         },
@@ -1867,9 +1877,9 @@
           "name": "forge.cfg",
           "type": "File",
           "artifact": {
-            "size": 3955,
+            "size": 3865,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/forge.cfg",
-            "MD5": "bee77d51b82699b95bf5c02788f654fb",
+            "MD5": "f171671570ac5e1c6ce1717ff70c8633",
             "path": "config/forge.cfg"
           }
         },
@@ -1878,9 +1888,9 @@
           "name": "forgeChunkLoading.cfg",
           "type": "File",
           "artifact": {
-            "size": 2285,
+            "size": 2228,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/forgeChunkLoading.cfg",
-            "MD5": "6e00d5d246211b61587b3ee60bdde03a",
+            "MD5": "a387968631a13938e53ae3e2913e510a",
             "path": "config/forgeChunkLoading.cfg"
           }
         },
@@ -1889,9 +1899,9 @@
           "name": "ironchest.cfg",
           "type": "File",
           "artifact": {
-            "size": 163,
+            "size": 153,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/ironchest.cfg",
-            "MD5": "7b34c4495b7cdcc5143fcc86a795b68a",
+            "MD5": "a4d40ce8b7bacb58d736fea5aa8af851",
             "path": "config/ironchest.cfg"
           }
         },
@@ -1900,9 +1910,9 @@
           "name": "itemBlacklist.cfg",
           "type": "File",
           "artifact": {
-            "size": 679,
+            "size": 662,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/jei/itemBlacklist.cfg",
-            "MD5": "d1aa29b95c320167bb4a663534b04114",
+            "MD5": "bf1c9b408cfee5e4b4d015a5f0438783",
             "path": "config/jei/itemBlacklist.cfg"
           }
         },
@@ -1911,9 +1921,9 @@
           "name": "jei.cfg",
           "type": "File",
           "artifact": {
-            "size": 3028,
+            "size": 2949,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/jei/jei.cfg",
-            "MD5": "c5ae6d93c28ed43266a5ea28cb4e51a3",
+            "MD5": "8e247d9b38e95f342ab0d81160d24224",
             "path": "config/jei/jei.cfg"
           }
         },
@@ -1922,9 +1932,9 @@
           "name": "searchColors.cfg",
           "type": "File",
           "artifact": {
-            "size": 1994,
+            "size": 1941,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/jei/searchColors.cfg",
-            "MD5": "585c420ac4e5433c27837a588927a0c0",
+            "MD5": "2cf9560152e9957b6e7e62d4e36107cb",
             "path": "config/jei/searchColors.cfg"
           }
         },
@@ -1933,9 +1943,9 @@
           "name": "worldSettings.cfg",
           "type": "File",
           "artifact": {
-            "size": 441,
+            "size": 421,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/jei/worldSettings.cfg",
-            "MD5": "585d9ed7e5f64dd3a393599bde5ca0ca",
+            "MD5": "f1be8ac1c735cd47a175968589063214",
             "path": "config/jei/worldSettings.cfg"
           }
         },
@@ -1988,9 +1998,9 @@
           "name": "orespawn.cfg",
           "type": "File",
           "artifact": {
-            "size": 714,
+            "size": 691,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/orespawn.cfg",
-            "MD5": "3d685c4aad6e09523105250bd1485e91",
+            "MD5": "b098f9ed3a9f9a0cb7f767b25e420321",
             "path": "config/orespawn.cfg"
           }
         },
@@ -2032,9 +2042,9 @@
           "name": "replacements-orespawn.json",
           "type": "File",
           "artifact": {
-            "size": 260,
+            "size": 252,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/orespawn3/sysconf/replacements-orespawn.json",
-            "MD5": "9ed6188feb1f0c417a2c0572604f4d44",
+            "MD5": "f5f5d08670f3567e9878e3731f423ef6",
             "path": "config/orespawn3/sysconf/replacements-orespawn.json"
           }
         },
@@ -2043,9 +2053,9 @@
           "name": "secretroomsmod.cfg",
           "type": "File",
           "artifact": {
-            "size": 1288,
+            "size": 1242,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/secretroomsmod.cfg",
-            "MD5": "09166fee453c2265c1360d8dbb5718ba",
+            "MD5": "7a9c9ed189ae57ecd09670691f2f3afc",
             "path": "config/secretroomsmod.cfg"
           }
         },
@@ -2054,9 +2064,9 @@
           "name": "securitycraft.cfg",
           "type": "File",
           "artifact": {
-            "size": 3412,
+            "size": 3329,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/securitycraft.cfg",
-            "MD5": "65f3042d847175d5d57955f8834418ec",
+            "MD5": "962d070a7153a50fd6b1299a5874c0b1",
             "path": "config/securitycraft.cfg"
           }
         },
@@ -2065,9 +2075,9 @@
           "name": "storagedrawers.cfg",
           "type": "File",
           "artifact": {
-            "size": 2828,
+            "size": 2705,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/storagedrawers.cfg",
-            "MD5": "d7487172fdd567b12f272ff3b8020417",
+            "MD5": "518f42fb263fc8e854ed4015077f28a9",
             "path": "config/storagedrawers.cfg"
           }
         },
