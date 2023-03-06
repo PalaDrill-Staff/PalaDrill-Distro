@@ -396,16 +396,6 @@
           }
         },
         {
-          "id": "com.github.nearata:optifinecapes:1.0@jar",
-          "name": "Optifine Capes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15846,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaCape-1.0.jar",
-            "MD5": "71e93cf998e03cdf7c9623f50ace4862"
-          }
-        },
-        {
           "id": "net.paladrill:paladrillmod:1.5.1@jar",
           "name": "PalaDrillMod",
           "type": "ForgeMod",
