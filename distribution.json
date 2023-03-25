@@ -396,16 +396,6 @@
           }
         },
         {
-          "id": "com.github.nearata:optifinecapes:1.0@jar",
-          "name": "Optifine Capes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15847,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrill-1.0.0.jar",
-            "MD5": "66f12ada90951ecc41036f561ba706cf"
-          }
-        },
-        {
           "id": "net.paladrill:paladrillmod:1.5.9@jar",
           "name": "PalaDrillMod",
           "type": "ForgeMod",
@@ -413,6 +403,16 @@
             "size": 1854386,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrill-1.12.2-1.5.9.jar",
             "MD5": "eaf3f2028549b8db009fb4de9df640ee"
+          }
+        },
+        {
+          "id": "com.github.nearata:paladrillcape:1.4@jar",
+          "name": "PalaDrill Capes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15815,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillCape-1.0.0.jar.jar",
+            "MD5": "390394bf0ee01707e3543571dbfd6c2f"
           }
         },
         {
