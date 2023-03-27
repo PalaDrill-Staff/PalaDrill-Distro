@@ -486,6 +486,16 @@
           }
         },
         {
+          "id": "fr.mosca421:worldprotector:1.0@jar",
+          "name": "WorldProtector",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 92057,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/WorldProtector+(1.12).jar",
+            "MD5": "63dcde83dccec3d5970135859a5294ca"
+          }
+        },
+        {
           "id": "simplecore.cfg",
           "name": "simplecore.cfg",
           "type": "File",
