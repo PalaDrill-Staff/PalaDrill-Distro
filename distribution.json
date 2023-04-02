@@ -256,16 +256,6 @@
           ]
         },
         {
-          "id": "org.spongepowered.asm.launch:_mixinbootstrap:1.1.0@jar",
-          "name": "_mixinbootstrap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1119478,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/_mixinbootstrap-1.1.0.jar",
-            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
-          }
-        },
-        {
           "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
@@ -326,16 +316,6 @@
           }
         },
         {
-          "id": "lumien.custommainmenu:custommainmenu:2.0.9.1@jar",
-          "name": "Custom Main Menu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1921313,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/custommainmenu-2.0.9.1.jar",
-            "MD5": "140122937fb9ce6fe7994134d34e012d"
-          }
-        },
-        {
           "id": "noppes.npcs:customnpcs:1.12@jar",
           "name": "CustomNPCs",
           "type": "ForgeMod",
@@ -343,16 +323,6 @@
             "size": 9911871,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/customnpcs-1.12.jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
-          }
-        },
-        {
-          "id": "de.keksuccino:fancymenu:2.13.3@jar",
-          "name": "FancyMenu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1050203,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/fancymenu-2.13.3.jar",
-            "MD5": "624b8bdfb9fcbea3eb1f9c4e127a9cb1"
           }
         },
         {
@@ -386,16 +356,6 @@
           }
         },
         {
-          "id": "de.keksuccino:konkrete:1.6.0@jar",
-          "name": "Konkrete",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 618151,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/konkrete-1.6.0.jar",
-            "MD5": "1812e95a402c0aae9b1f00add7216e58"
-          }
-        },
-        {
           "id": "com.mcmoddev:orespawn:3.3.1@jar",
           "name": "OreSpawn",
           "type": "ForgeMod",
@@ -423,16 +383,6 @@
             "size": 15815,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillCape-1.0.0.jar",
             "MD5": "390394bf0ee01707e3543571dbfd6c2f"
-          }
-        },
-        {
-          "id": "lumien.resourceloader:resourceloader:1.5.3@jar",
-          "name": "Resource Loader",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 16612,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/resourceloader-1.5.3.jar",
-            "MD5": "51141e882f96ce756b9b3d25f2acdf57"
           }
         },
         {
