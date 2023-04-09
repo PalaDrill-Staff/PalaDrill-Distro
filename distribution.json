@@ -300,9 +300,9 @@
           "name": "Cloud X PalaDrill Client",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11558853,
+            "size": 11558849,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/Cloud_X_PalaDrill-1.4.1-1.12.2.jar",
-            "MD5": "be0ab8f3601e92eb98659891baa72016"
+            "MD5": "0d7c40a25b0688bf9901d9c5641f45bb"
           }
         },
         {
@@ -433,16 +433,6 @@
             "size": 605947,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/storagedrawers-1.12.2-5.4.2.jar",
             "MD5": "0f658c7cba3e6793abbcb934b4810902"
-          }
-        },
-        {
-          "id": "com.sk89q:worldedit:6.1.10-SNAPSHOT;e6b38e8@jar",
-          "name": "WorldEdit",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1479535,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
-            "MD5": "bdf6d8d20591c014fed66633f4ef3b23"
           }
         },
         {
