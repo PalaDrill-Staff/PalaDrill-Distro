@@ -386,6 +386,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.phosphor.mod:phosphor-lighting:1.12.2-0.2.7@jar",
+          "name": "Phosphor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 920264,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/phosphor-forge-mc1.12.2-0.2.7-universal.jar",
+            "MD5": "13f62131ab2fff6212301ee70f6bf5d8"
+          }
+        },
+        {
           "id": "com.wynprice:secretroomsmod:5.6.4@jar",
           "name": "Secret Rooms 5",
           "type": "ForgeMod",
