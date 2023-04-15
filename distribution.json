@@ -436,6 +436,17 @@
           }
         },
         {
+          "id": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
+          "name": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
+          "type": "File",
+          "artifact": {
+            "size": 920264,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar",
+            "MD5": "13f62131ab2fff6212301ee70f6bf5d8",
+            "path": "mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
