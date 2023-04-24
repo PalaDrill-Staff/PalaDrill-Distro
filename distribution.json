@@ -300,9 +300,9 @@
           "name": "Cloud X PalaDrill Client",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11558849,
+            "size": 11558827,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/Cloud_X_PalaDrill-1.4.1-1.12.2.jar",
-            "MD5": "0d7c40a25b0688bf9901d9c5641f45bb"
+            "MD5": "8aa4dc9aa7c5764c5ef9ea9bb611906e"
           }
         },
         {
