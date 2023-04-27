@@ -8,6 +8,316 @@
   },
   "servers": [
     {
+      "id": "PalaDrill-1.7.10",
+      "name": "PalaDrill (Minecraft 1.7.10)",
+      "description": "PalaDrill Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+      "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/icon.png",
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.7.10",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10:universal",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 3018833,
+            "MD5": "add0fba161c4652a96efb4264ec2d9ec",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "net.minecraft:launchwrapper:1.12@jar",
+              "name": "Minecraft Forge (launchwrapper)",
+              "type": "Library",
+              "artifact": {
+                "size": 32999,
+                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-all:5.0.3@jar",
+              "name": "Minecraft Forge (asm-all)",
+              "type": "Library",
+              "artifact": {
+                "size": 241639,
+                "MD5": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
+              }
+            },
+            {
+              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar",
+              "name": "Minecraft Forge (akka-actor_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 2514991,
+                "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+              }
+            },
+            {
+              "id": "com.typesafe:config:1.2.1@jar",
+              "name": "Minecraft Forge (config)",
+              "type": "Library",
+              "artifact": {
+                "size": 219554,
+                "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar",
+              "name": "Minecraft Forge (scala-actors-migration_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 58018,
+                "MD5": "f5e79398daa1806f8b17311a3c782723",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-compiler:2.11.1@jar",
+              "name": "Minecraft Forge (scala-compiler)",
+              "type": "Library",
+              "artifact": {
+                "size": 13449765,
+                "MD5": "06030143bf86ca896fb6ccfd679b5760",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-continuations-library_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 25365,
+                "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar",
+              "name": "Minecraft Forge (scala-continuations-plugin_2.11.1)",
+              "type": "Library",
+              "artifact": {
+                "size": 206575,
+                "MD5": "359c4a6743a082c689039482eed78670",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-library:2.11.1@jar",
+              "name": "Minecraft Forge (scala-library)",
+              "type": "Library",
+              "artifact": {
+                "size": 5538130,
+                "MD5": "1d88f665219e6006c5dd82d71c525c0f",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-parser-combinators_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 419701,
+                "MD5": "4e694499c965af4a02599c99d4f0b196",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-reflect:2.11.1@jar",
+              "name": "Minecraft Forge (scala-reflect)",
+              "type": "Library",
+              "artifact": {
+                "size": 4372892,
+                "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-swing_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-swing_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 726500,
+                "MD5": "1009d69e4948045383f2a7a334348af5",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-xml_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 648679,
+                "MD5": "c2d7e66495afe14545c31b21e99879ef",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "lzma:lzma:0.0.1@jar",
+              "name": "Minecraft Forge (lzma)",
+              "type": "Library",
+              "artifact": {
+                "size": 5762,
+                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:4.5@jar",
+              "name": "Minecraft Forge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 61311,
+                "MD5": "1372bd4823bb1ef61e7db6724f601150",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar"
+              }
+            },
+            {
+              "id": "com.google.guava:guava:17.0@jar",
+              "name": "Minecraft Forge (guava)",
+              "type": "Library",
+              "artifact": {
+                "size": 2243036,
+                "MD5": "89fef81c2adfa9b50a64ed5cd5d8c155",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/com/google/guava/guava/17.0/guava-17.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.commons:commons-lang3:3.3.2@jar",
+              "name": "Minecraft Forge (commons-lang3)",
+              "type": "Library",
+              "artifact": {
+                "size": 412739,
+                "MD5": "3128bf75a2549ebe38663401191bacab",
+                "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/repo/lib/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "generated.forgemod:[1.7.10]+securitycraft+v1.8.13:0.0.0@jar",
+          "name": "[1.7.10]+SecurityCraft+v1.8.13",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1060122,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/[1.7.10]+SecurityCraft+v1.8.13.jar",
+            "MD5": "c3b8d3cc7bed916b8608af073c3b27fe"
+          }
+        },
+        {
+          "id": "generated.forgemod:BiomesOPlenty:2.1.0@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5755198,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar",
+            "MD5": "08d7ffbce53615cb516cb4d1916eecb5"
+          }
+        },
+        {
+          "id": "generated.forgemod:chisel:2.9.5.11@jar",
+          "name": "Chisel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6378920,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/Chisel-2.9.5.11.jar",
+            "MD5": "c76378129307ab7b371bb9b3b8631fce"
+          }
+        },
+        {
+          "id": "codechicken.core.launch:codechickencore:1.7.10-1.0.7.48-universal@jar",
+          "name": "CodeChickenCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 143985,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+            "MD5": "9624db3d835155a1be4baef23b7cee31"
+          }
+        },
+        {
+          "id": "generated.forgemod:customnpcs:1.7.10@jar",
+          "name": "CustomNpcs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9007920,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/CustomNPCs_1.7.10d(29oct17).jar",
+            "MD5": "486eb501ae87b3efcdc6b08823c7d7c9"
+          }
+        },
+        {
+          "id": "generated.forgemod:ironchest:1.7.10-6.0.62.742-universal@jar",
+          "name": "Ironchest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 158104,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/ironchest-1.7.10-6.0.62.742-universal.jar",
+            "MD5": "48d942594459c437ce8e8648ca42a7b9"
+          }
+        },
+        {
+          "id": "codechicken.nei:notenoughitems:1.7.10-1.0.5.120-universal@jar",
+          "name": "NotEnoughItems",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 513136,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+            "MD5": "742e865a9a80071e80976ffedc05700e"
+          }
+        },
+        {
+          "id": "generated.forgemod:secretroomsmod:1.7.10-4.7.1.413@jar",
+          "name": "The SecretRoomsMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 147210,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/secretroomsmod-1.7.10-4.7.1.413.jar",
+            "MD5": "d04fd9e193ecdce6b020cdb25148691c"
+          }
+        },
+        {
+          "id": "generated.forgemod:simplecore:1.1.1.3@jar",
+          "name": "SimpleCore API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 416467,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/simplecore-1.7.10-1.1.1.3.jar",
+            "MD5": "d9e528f88ec546ffe56a069e403b4d1c"
+          }
+        },
+        {
+          "id": "generated.forgemod:simpleores:1.7.10-1.6.1.4@jar",
+          "name": "Simpleores",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78738,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/simpleores-1.7.10-1.6.1.4.jar",
+            "MD5": "9957af18136d72dada61573a83713ac5"
+          }
+        },
+        {
+          "id": "generated.forgemod:StorageDrawers:1.7.10-1.10.9@jar",
+          "name": "Storage Drawers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 589456,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PalaDrill-1.7.10/forgemods/required/StorageDrawers-1.7.10-1.10.9.jar",
+            "MD5": "6fe615f1a9ff94dfe1b0641f1fc9fd18"
+          }
+        }
+      ]
+    },
+    {
       "id": "PlayPalaDrill-1.12.2",
       "name": "PalaDrill",
       "description": "Play on PalaDrill's Server",

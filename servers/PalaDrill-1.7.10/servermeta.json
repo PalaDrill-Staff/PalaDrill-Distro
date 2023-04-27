@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Users/josse/Documents/Github/PalaDrill-Distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "PalaDrill (Minecraft 1.7.10)",
+    "description": "PalaDrill Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "10.13.4.1614"
+  },
+  "untrackedFiles": []
+}
