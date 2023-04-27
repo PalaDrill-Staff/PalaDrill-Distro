@@ -468,28 +468,6 @@
           }
         },
         {
-          "id": "Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-          "name": "Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-          "type": "File",
-          "artifact": {
-            "size": 79882,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-            "MD5": "35d633efc1691effb01650f79cd49c82",
-            "path": "Flan/Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar"
-          }
-        },
-        {
-          "id": "WW2-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-          "name": "WW2-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-          "type": "File",
-          "artifact": {
-            "size": 5635010,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/WW2-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-            "MD5": "dca2e2381a2bea6fc5fa8f0b7411d506",
-            "path": "Flan/WW2-Content.Pack-1.12.2-5.6.0-beta.10.jar"
-          }
-        },
-        {
           "id": "Flan.s.Mod-1.12.2-5.6.0-beta.10.jar",
           "name": "Flan.s.Mod-1.12.2-5.6.0-beta.10.jar",
           "type": "File",
