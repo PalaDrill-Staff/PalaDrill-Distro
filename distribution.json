@@ -446,47 +446,47 @@
           }
         },
         {
-          "id": "ModernWarfare-ContentPack-1.12.2-5.8.2.jar",
-          "name": "ModernWarfare-ContentPack-1.12.2-5.8.2.jar",
+          "id": "Modern.Warfare-Content.Pack-1.12.2-5.6.0-beta.10.jar",
+          "name": "Modern.Warfare-Content.Pack-1.12.2-5.6.0-beta.10.jar",
           "type": "File",
           "artifact": {
-            "size": 30240221,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/ModernWarfare-ContentPack-1.12.2-5.8.2.jar",
-            "MD5": "c7fbaf1f1bcdfab62016e61f51a8d347",
-            "path": "Flan/ModernWarfare-ContentPack-1.12.2-5.8.2.jar"
+            "size": 5710074,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Modern.Warfare-Content.Pack-1.12.2-5.6.0-beta.10.jar",
+            "MD5": "bed9fdf10f06d8d2f3ac9f00ae40c131",
+            "path": "Flan/Modern.Warfare-Content.Pack-1.12.2-5.6.0-beta.10.jar"
           }
         },
         {
-          "id": "Simple Parts-Content Pack-1.12.2-5.7.2.jar",
-          "name": "Simple Parts-Content Pack-1.12.2-5.7.2.jar",
+          "id": "Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar",
+          "name": "Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar",
           "type": "File",
           "artifact": {
-            "size": 237132,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Simple%20Parts-Content%20Pack-1.12.2-5.7.2.jar",
-            "MD5": "97d6e5d81d1cd9bf6cd1f1fcec657f4d",
-            "path": "Flan/Simple Parts-Content Pack-1.12.2-5.7.2.jar"
+            "size": 235815,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar",
+            "MD5": "531d6154e8f4392d73f405b80d815e3b",
+            "path": "Flan/Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar"
           }
         },
         {
-          "id": "Titan-Content+Pack-1.12.2-5.7.2.jar",
-          "name": "Titan-Content+Pack-1.12.2-5.7.2.jar",
+          "id": "Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar",
+          "name": "Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar",
           "type": "File",
           "artifact": {
-            "size": 80905,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Titan-Content+Pack-1.12.2-5.7.2.jar",
-            "MD5": "396eb02db2fd1eddbdbdcf3ef3a2a9a4",
-            "path": "Flan/Titan-Content+Pack-1.12.2-5.7.2.jar"
+            "size": 79882,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar",
+            "MD5": "35d633efc1691effb01650f79cd49c82",
+            "path": "Flan/Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar"
           }
         },
         {
-          "id": "WW2-Content+Pack-1.12.2-5.7.2.jar",
-          "name": "WW2-Content+Pack-1.12.2-5.7.2.jar",
+          "id": "WW2-Content.Pack-1.12.2-5.6.0-beta.10.jar",
+          "name": "WW2-Content.Pack-1.12.2-5.6.0-beta.10.jar",
           "type": "File",
           "artifact": {
-            "size": 5636950,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/WW2-Content+Pack-1.12.2-5.7.2.jar",
-            "MD5": "0f4b59db4605f5ccab6ece88d22f21b3",
-            "path": "Flan/WW2-Content+Pack-1.12.2-5.7.2.jar"
+            "size": 5635010,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/WW2-Content.Pack-1.12.2-5.6.0-beta.10.jar",
+            "MD5": "dca2e2381a2bea6fc5fa8f0b7411d506",
+            "path": "Flan/WW2-Content.Pack-1.12.2-5.6.0-beta.10.jar"
           }
         },
         {
