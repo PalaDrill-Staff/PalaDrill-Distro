@@ -446,6 +446,61 @@
           }
         },
         {
+          "id": "ModernWarfare-ContentPack-1.12.2-5.8.2.jar",
+          "name": "ModernWarfare-ContentPack-1.12.2-5.8.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 30240221,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/ModernWarfare-ContentPack-1.12.2-5.8.2.jar",
+            "MD5": "c7fbaf1f1bcdfab62016e61f51a8d347",
+            "path": "Flan/ModernWarfare-ContentPack-1.12.2-5.8.2.jar"
+          }
+        },
+        {
+          "id": "Simple Parts-Content Pack-1.12.2-5.7.2.jar",
+          "name": "Simple Parts-Content Pack-1.12.2-5.7.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 237132,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Simple%20Parts-Content%20Pack-1.12.2-5.7.2.jar",
+            "MD5": "97d6e5d81d1cd9bf6cd1f1fcec657f4d",
+            "path": "Flan/Simple Parts-Content Pack-1.12.2-5.7.2.jar"
+          }
+        },
+        {
+          "id": "Titan-Content+Pack-1.12.2-5.7.2.jar",
+          "name": "Titan-Content+Pack-1.12.2-5.7.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 80905,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Titan-Content+Pack-1.12.2-5.7.2.jar",
+            "MD5": "396eb02db2fd1eddbdbdcf3ef3a2a9a4",
+            "path": "Flan/Titan-Content+Pack-1.12.2-5.7.2.jar"
+          }
+        },
+        {
+          "id": "WW2-Content+Pack-1.12.2-5.7.2.jar",
+          "name": "WW2-Content+Pack-1.12.2-5.7.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5636950,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/WW2-Content+Pack-1.12.2-5.7.2.jar",
+            "MD5": "0f4b59db4605f5ccab6ece88d22f21b3",
+            "path": "Flan/WW2-Content+Pack-1.12.2-5.7.2.jar"
+          }
+        },
+        {
+          "id": "Flan's+Mod-1.12.2-5.10.0.jar",
+          "name": "Flan's+Mod-1.12.2-5.10.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2259973,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/Flan's+Mod-1.12.2-5.10.0.jar",
+            "MD5": "0cc53ac00145d96448d5d20eae4e2ed6",
+            "path": "mods/Flan's+Mod-1.12.2-5.10.0.jar"
+          }
+        },
+        {
           "id": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
           "name": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
           "type": "File",
