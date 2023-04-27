@@ -446,39 +446,6 @@
           }
         },
         {
-          "id": "Modern.Warfare-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-          "name": "Modern.Warfare-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-          "type": "File",
-          "artifact": {
-            "size": 5710074,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Modern.Warfare-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-            "MD5": "bed9fdf10f06d8d2f3ac9f00ae40c131",
-            "path": "Flan/Modern.Warfare-Content.Pack-1.12.2-5.6.0-beta.10.jar"
-          }
-        },
-        {
-          "id": "Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-          "name": "Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-          "type": "File",
-          "artifact": {
-            "size": 235815,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/Flan/Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar",
-            "MD5": "531d6154e8f4392d73f405b80d815e3b",
-            "path": "Flan/Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar"
-          }
-        },
-        {
-          "id": "Flan.s.Mod-1.12.2-5.6.0-beta.10.jar",
-          "name": "Flan.s.Mod-1.12.2-5.6.0-beta.10.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2153415,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/Flan.s.Mod-1.12.2-5.6.0-beta.10.jar",
-            "MD5": "f079a4fec5ff2d8963acebe56bbf2f06",
-            "path": "mods/Flan.s.Mod-1.12.2-5.6.0-beta.10.jar"
-          }
-        },
-        {
           "id": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
           "name": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
           "type": "File",
