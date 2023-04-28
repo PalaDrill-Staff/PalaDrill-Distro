@@ -266,16 +266,6 @@
           }
         },
         {
-          "id": "com.mrcrayfish.guns:cgm:0.15.3@jar",
-          "name": "MrCrayfish's Gun Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 814386,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/cgm-0.15.3-mc1.12.2.jar",
-            "MD5": "e7bdc91c4c17a75bce67b6e523869340"
-          }
-        },
-        {
           "id": "com.jaquadro.minecraft:chameleon:1.12-4.1.3@jar",
           "name": "Chameleon",
           "type": "ForgeMod",
@@ -460,9 +450,9 @@
           "name": "Sword Blocking Combat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 43122,
+            "size": 29195,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/SwordBlockingCombat-v1.2.3-1.12.2.jar",
-            "MD5": "f98a30baa5d824be825f0ab4bfe154ab"
+            "MD5": "16c46b3efd624eeebf1ce1485b87572c"
           }
         },
         {
@@ -473,6 +463,28 @@
             "size": 2139906,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/vehicle-0.44.1-mc1.12.2.jar",
             "MD5": "276818770667c1bff569d92287c53d95"
+          }
+        },
+        {
+          "id": "MCglTF-1.12.2-Forge-2.0.3.0.jar",
+          "name": "MCglTF-1.12.2-Forge-2.0.3.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 558870,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/MCglTF-1.12.2-Forge-2.0.3.0.jar",
+            "MD5": "11df7853ab718b7d63cc9c93475552f4",
+            "path": "mods/MCglTF-1.12.2-Forge-2.0.3.0.jar"
+          }
+        },
+        {
+          "id": "modularwarfare-2.4.2f (1).jar",
+          "name": "modularwarfare-2.4.2f (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 77165196,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/modularwarfare-2.4.2f%20(1).jar",
+            "MD5": "d5c93e4d4aa120bea13873ceaf846fbb",
+            "path": "mods/modularwarfare-2.4.2f (1).jar"
           }
         },
         {
