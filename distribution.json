@@ -356,6 +356,26 @@
           }
         },
         {
+          "id": "com.modularmods:mcgltf:1.12.2-Forge-2.0.3.0@jar",
+          "name": "MCglTF",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 558870,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/MCglTF-1.12.2-Forge-2.0.3.0.jar",
+            "MD5": "11df7853ab718b7d63cc9c93475552f4"
+          }
+        },
+        {
+          "id": "com.modularwarfare:modularwarfare:2.4.2f@jar",
+          "name": "ModularWarfare",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77165196,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/modularwarfare-2.4.2f.jar",
+            "MD5": "d5c93e4d4aa120bea13873ceaf846fbb"
+          }
+        },
+        {
           "id": "com.mcmoddev:orespawn:3.3.1@jar",
           "name": "OreSpawn",
           "type": "ForgeMod",
