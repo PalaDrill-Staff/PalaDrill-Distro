@@ -12,8 +12,8 @@
       "name": "PalaDrill",
       "description": "Play on PalaDrill's Server",
       "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/icon.png",
-      "version": "1.2.1",
-      "address": "game1-fr.hosterfy.com:60514",
+      "version": "1.22.1",
+      "address": "lobby.pala.best",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1066511691048828998",
