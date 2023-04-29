@@ -376,6 +376,16 @@
           }
         },
         {
+          "id": "dev.cloudmc:cloudxpaladrill:1.4.1@jar",
+          "name": "Cloud X PalaDrill Client",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11558798,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillClient-1.5.1-1.12.2.jar.jar",
+            "MD5": "2644161e5f951768cd4f597fa136ae04"
+          }
+        },
+        {
           "id": "net.paladrill:paladrillmod:1.7.1@jar",
           "name": "PalaDrillMod",
           "type": "ForgeMod",
@@ -383,16 +393,6 @@
             "size": 1933155,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillMod-1.12.2-1.7.1.jar",
             "MD5": "14ceb25f856d3e3497014db9ff6f593b"
-          }
-        },
-        {
-          "id": "dev.cloudmc:cloudxpaladrill:1.4.1@jar",
-          "name": "Cloud X PalaDrill Client",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11558827,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillXCloud-1.4.1-1.12.2.jar",
-            "MD5": "8aa4dc9aa7c5764c5ef9ea9bb611906e"
           }
         },
         {
@@ -463,28 +463,6 @@
             "size": 2139906,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/vehicle-0.44.1-mc1.12.2.jar",
             "MD5": "276818770667c1bff569d92287c53d95"
-          }
-        },
-        {
-          "id": "MCglTF-1.12.2-Forge-2.0.3.0.jar",
-          "name": "MCglTF-1.12.2-Forge-2.0.3.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 558870,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/MCglTF-1.12.2-Forge-2.0.3.0.jar",
-            "MD5": "11df7853ab718b7d63cc9c93475552f4",
-            "path": "mods/MCglTF-1.12.2-Forge-2.0.3.0.jar"
-          }
-        },
-        {
-          "id": "modularwarfare-2.4.2f.jar",
-          "name": "modularwarfare-2.4.2f.jar",
-          "type": "File",
-          "artifact": {
-            "size": 77165196,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/modularwarfare-2.4.2f.jar",
-            "MD5": "d5c93e4d4aa120bea13873ceaf846fbb",
-            "path": "mods/modularwarfare-2.4.2f.jar"
           }
         },
         {
