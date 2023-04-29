@@ -477,14 +477,14 @@
           }
         },
         {
-          "id": "modularwarfare-2.4.2f (1).jar",
-          "name": "modularwarfare-2.4.2f (1).jar",
+          "id": "modularwarfare-2.4.2f.jar",
+          "name": "modularwarfare-2.4.2f.jar",
           "type": "File",
           "artifact": {
             "size": 77165196,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/modularwarfare-2.4.2f%20(1).jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/modularwarfare-2.4.2f.jar",
             "MD5": "d5c93e4d4aa120bea13873ceaf846fbb",
-            "path": "mods/modularwarfare-2.4.2f (1).jar"
+            "path": "mods/modularwarfare-2.4.2f.jar"
           }
         },
         {
