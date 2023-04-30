@@ -4,7 +4,7 @@
     "version": "1.22.1",
     "name": "PalaDrill",
     "description": "Play on PalaDrill's Server",
-    "address": "lobby.pala.best",
+    "address": "node1.vivaheberg.com:25908",
     "discord": {
       "shortId": "1066511691048828998",
       "largeImageText": "paladrill",

@@ -13,7 +13,7 @@
       "description": "Play on PalaDrill's Server",
       "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/icon.png",
       "version": "1.22.1",
-      "address": "lobby.pala.best",
+      "address": "node1.vivaheberg.com:25908",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1066511691048828998",
@@ -376,23 +376,23 @@
           }
         },
         {
-          "id": "net.paladrill.paladrillstaff:paladrillcapes:1.5@jar",
-          "name": "Paladrillcapes",
+          "id": "net.paladrillcapes:paladrillcapes:11.0.0@jar",
+          "name": "PalaDrillCapes",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16019,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillCapes-1.12.2.jar",
-            "MD5": "66f90504eb7c9e7f1ce0f7b16f599f7f"
+            "size": 29153,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillCapes-1.6.8-1.12.2.jar",
+            "MD5": "3a447ebf3ee6e2388ecf5aa5387e8631"
           }
         },
         {
           "id": "dev.cloudmc:cloudxpaladrill:1.4.1@jar",
-          "name": "Cloud X PalaDrill Client",
+          "name": "PalaDrill Client",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11558798,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillClient-1.5.1-1.12.2.jar.jar",
-            "MD5": "2644161e5f951768cd4f597fa136ae04"
+            "size": 11558795,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillClient-1.5.1-1.12.2.jar",
+            "MD5": "9a42c9354f41eb69f6b32ba1c0efb182"
           }
         },
         {
