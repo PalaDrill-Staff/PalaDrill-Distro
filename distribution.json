@@ -12,7 +12,7 @@
       "name": "PalaDrill",
       "description": "Play on PalaDrill's Server",
       "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/icon.png",
-      "version": "1.22.1",
+      "version": "1.23",
       "address": "node1.vivaheberg.com:25908",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -491,9 +491,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 77,
+            "size": 60,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/servers.dat",
-            "MD5": "ce36299ba3e2472315e42083e11a2660",
+            "MD5": "6f8019f2f9ccb1227324c93c388ff04e",
             "path": "servers.dat"
           }
         }
