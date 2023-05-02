@@ -421,7 +421,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3178385,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/securitycraft-v1.9.5.jar",
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/SecurityCraft-v1.9.5.jar",
             "MD5": "742ded432b9c4852c48b24864f30e213"
           }
         },
