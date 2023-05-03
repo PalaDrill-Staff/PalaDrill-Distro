@@ -276,6 +276,26 @@
           }
         },
         {
+          "id": "team.chisel:chisel:MC1.12.2-1.0.2.45@jar",
+          "name": "Chisel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4755282,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/chisel-MC1.12.2-1.0.2.45.jar",
+            "MD5": "54afc298f94e708f0e1cdf399200b2cb"
+          }
+        },
+        {
+          "id": "team.chisel:ctm:MC1.12.2-1.0.2.31@jar",
+          "name": "CTM",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 199045,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/ctm-MC1.12.2-1.0.2.31.jar",
+            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
+          }
+        },
+        {
           "id": "noppes.npcs:customnpcs:1.12@jar",
           "name": "CustomNPCs",
           "type": "ForgeMod",
