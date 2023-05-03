@@ -266,16 +266,6 @@
           }
         },
         {
-          "id": "com.mrcrayfish.guns:cgm:0.15.3@jar",
-          "name": "MrCrayfish's Gun Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 814386,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/cgm-0.15.3-mc1.12.2.jar",
-            "MD5": "e7bdc91c4c17a75bce67b6e523869340"
-          }
-        },
-        {
           "id": "com.jaquadro.minecraft:chameleon:1.12-4.1.3@jar",
           "name": "Chameleon",
           "type": "ForgeMod",
@@ -283,36 +273,6 @@
             "size": 96859,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/chameleon-1.12-4.1.3.jar",
             "MD5": "e42efa8f4fd42d2918128a826b740e98"
-          }
-        },
-        {
-          "id": "team.chisel:chisel:MC1.12.2-1.0.2.45@jar",
-          "name": "Chisel",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4755282,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/chisel-MC1.12.2-1.0.2.45.jar",
-            "MD5": "54afc298f94e708f0e1cdf399200b2cb"
-          }
-        },
-        {
-          "id": "com.radixshock:classiccombat:1.0.0@jar",
-          "name": "Classic Combat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 56210,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/classiccombat-1.0.0.jar",
-            "MD5": "98c0ba7ffbd0a52d22f1b6d8444093bc"
-          }
-        },
-        {
-          "id": "team.chisel:ctm:MC1.12.2-1.0.2.31@jar",
-          "name": "CTM",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 199045,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/ctm-MC1.12.2-1.0.2.31.jar",
-            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
           }
         },
         {
@@ -413,36 +373,6 @@
             "size": 343453,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/secretroomsmod-5.6.4.jar",
             "MD5": "d853b4060cf429ce7765a750501de764"
-          }
-        },
-        {
-          "id": "net.geforcemods:securitycraft:v1.9.5@jar",
-          "name": "SecurityCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3178385,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/SecurityCraft-v1.9.5.jar",
-            "MD5": "742ded432b9c4852c48b24864f30e213"
-          }
-        },
-        {
-          "id": "alexndr.api.core:simplecore:1.7.3.4@jar",
-          "name": "SimpleCore API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 133644,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/simplecore-1.7.3.4.jar",
-            "MD5": "ddab2eebf48d203259e84aaa58173084"
-          }
-        },
-        {
-          "id": "alexndr.plugins:simpleores:1.11.2.2@jar",
-          "name": "SimpleOres 2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 157767,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/simpleores-1.11.2.2.jar",
-            "MD5": "4fa468acd7dab8236bcb6424632c4647"
           }
         },
         {
