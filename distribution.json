@@ -380,9 +380,9 @@
           "name": "PalaDrillMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1961592,
+            "size": 1935857,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillMod-1.8-1.12.2.jar",
-            "MD5": "b4629e3f0509357368a19a7248aa125d"
+            "MD5": "408b053fb6512f9096f1b6a411893f3d"
           }
         },
         {
