@@ -13,7 +13,7 @@
       "description": "Play on PalaDrill's Server",
       "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/icon.png",
       "version": "1.23",
-      "address": "node1.vivaheberg.com:25908",
+      "address": "play.paladrill.ovh:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1066511691048828998",
