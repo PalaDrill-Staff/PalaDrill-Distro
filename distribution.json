@@ -360,9 +360,9 @@
           "name": "PalaDrillCapes",
           "type": "ForgeMod",
           "artifact": {
-            "size": 26502,
+            "size": 26485,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillCapes-6.5-1.12.2.jar",
-            "MD5": "125ed3f949d3cedab5d890c8a650f381"
+            "MD5": "7f581fff47bf69bec19955a116a0f233"
           }
         },
         {
