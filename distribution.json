@@ -416,13 +416,14 @@
           }
         },
         {
-          "id": "com.mrcrayfish:vehicle:0.44.1@jar",
-          "name": "MrCrayfish's Vehicle Mod",
-          "type": "ForgeMod",
+          "id": "secretroomsmod.cfg",
+          "name": "secretroomsmod.cfg",
+          "type": "File",
           "artifact": {
-            "size": 2139906,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/vehicle-0.44.1-mc1.12.2.jar",
-            "MD5": "276818770667c1bff569d92287c53d95"
+            "size": 1243,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/secretroomsmod.cfg",
+            "MD5": "f0ff8d8f89b54bce68ddb7b6ec7346b6",
+            "path": "config/secretroomsmod.cfg"
           }
         },
         {
