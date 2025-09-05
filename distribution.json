@@ -2,9 +2,8 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "shortId": "1413636046008225802",
+    "largeImageText": "paladrill"
   },
   "servers": [
     {
@@ -15,11 +14,6 @@
       "version": "1.23",
       "address": "play.paladrill.ovh:25565",
       "minecraftVersion": "1.12.2",
-      "discord": {
-        "shortId": "1066511691048828998",
-        "largeImageText": "paladrill",
-        "largeImageKey": "online"
-      },
       "mainServer": true,
       "autoconnect": false,
       "modules": [
