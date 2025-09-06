@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1413636046008225802",
-    "smallImageText": "paladrill",
-    "smallImageKey": ""
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "play.paladrill.ovh:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "1413636046008225802",
+        "shortId": "1066511691048828998",
         "largeImageText": "paladrill",
-        "largeImageKey": ""
+        "largeImageKey": "online"
       },
       "mainServer": true,
       "autoconnect": false,
@@ -256,6 +256,26 @@
           ]
         },
         {
+          "id": "panda.endblocks:additionalenderblocks:2.1@jar",
+          "name": "Additional Ender Blocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 56421,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/AdditionalEnderBlocks-2.1.jar",
+            "MD5": "7c0e02e99f98f257a49fc4f0cc696611"
+          }
+        },
+        {
+          "id": "paulevs.betternether:betternether:0.1.8.6@jar",
+          "name": "Better Nether",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1769238,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/betternether-0.1.8.6.jar",
+            "MD5": "ad400778cbe98a73f0a2686190dcd079"
+          }
+        },
+        {
           "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
@@ -306,6 +326,36 @@
           }
         },
         {
+          "id": "io.github.superjedi224:ender_spectre:1.0@jar",
+          "name": "Ender Spectres",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32147,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/end_spectre-1.0.jar",
+            "MD5": "ffce85ced0f7452b883cdefbb3cc0328"
+          }
+        },
+        {
+          "id": "com.mcmoddev:endmetals:1.2.0-rc2@jar",
+          "name": "End Metals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 106307,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/EndMetals-1.12-1.2.0-rc2.67.jar",
+            "MD5": "657b0329b4f5f1b8ce3dfd4172f5f2f6"
+          }
+        },
+        {
+          "id": "endreborn:endreborn:0.3.9@jar",
+          "name": "End: Reborn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1905722,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/EndReborn%20[0.3.9].jar",
+            "MD5": "132cbfcae75f66ebc60cd37f1d947bb0"
+          }
+        },
+        {
           "id": "cpw.mods:ironchest:1.12.2-7.0.72.847@jar",
           "name": "Iron Chests",
           "type": "ForgeMod",
@@ -333,6 +383,46 @@
             "size": 265325,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/justenoughdimensions-1.6.0-dev.20200416.184714.jar",
             "MD5": "fea8d777d4f41330a2e1f245cbebc554"
+          }
+        },
+        {
+          "id": "logictechcorp.libraryex:libraryex:1.2.2@jar",
+          "name": "LibraryEx",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 464351,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/LibraryEx-1.12.2-1.2.2.jar",
+            "MD5": "c66af5f65fb5df6263adf794061b8425"
+          }
+        },
+        {
+          "id": "com.mcmoddev.lib:mmdlib:1.0.0-rc2@jar",
+          "name": "MMDLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 705110,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/MMDLib-1.12-1.0.0-rc2.36.jar",
+            "MD5": "1b1a3f396adbd9a4cdd7e2c2e743490b"
+          }
+        },
+        {
+          "id": "logictechcorp.netherex:netherex:2.2.5@jar",
+          "name": "NetherEx",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2650771,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/NetherEx-1.12.2-2.2.5.jar",
+            "MD5": "ef2022afc93a3462e36a84d992fa8960"
+          }
+        },
+        {
+          "id": "net.mcreator:netheritesbut:1.0.0@jar",
+          "name": "Netherites but 1.12.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 372911,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/Netherites%20For%201.12.2.jar",
+            "MD5": "071638c28bf5f30a531b7e5631bfa281"
           }
         },
         {
@@ -403,6 +493,16 @@
             "size": 605947,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/storagedrawers-1.12.2-5.4.2.jar",
             "MD5": "0f658c7cba3e6793abbcb934b4810902"
+          }
+        },
+        {
+          "id": "fluke.stygian:stygian:1.0.4@jar",
+          "name": "Stygian End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215069,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/stygian-1.0.4.jar",
+            "MD5": "bbf08aa306c6b270ec5adea8bdaa3cd9"
           }
         },
         {
