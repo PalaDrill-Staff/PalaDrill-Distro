@@ -510,9 +510,9 @@
           "name": "Sword Blocking Combat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 29195,
+            "size": 38883,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/SwordBlockingCombat-v1.2.3-1.12.2.jar",
-            "MD5": "16c46b3efd624eeebf1ce1485b87572c"
+            "MD5": "4ff2914b45a97bc727916cc12c90f57f"
           }
         },
         {
