@@ -2,8 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "shortId": "1413636046008225802",
-    "largeImageText": "paladrill"
+    "clientId": "1413636046008225802",
+    "smallImageText": "paladrill",
+    "smallImageKey": ""
   },
   "servers": [
     {
@@ -14,6 +15,11 @@
       "version": "1.23",
       "address": "play.paladrill.ovh:25565",
       "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "1413636046008225802",
+        "largeImageText": "paladrill",
+        "largeImageKey": ""
+      },
       "mainServer": true,
       "autoconnect": false,
       "modules": [
@@ -407,6 +413,17 @@
             "size": 29195,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/SwordBlockingCombat-v1.2.3-1.12.2.jar",
             "MD5": "16c46b3efd624eeebf1ce1485b87572c"
+          }
+        },
+        {
+          "id": "CustomNpcs.cfg",
+          "name": "CustomNpcs.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1488,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/CustomNpcs.cfg",
+            "MD5": "f048045a6e9ef9bd4173cf2e562b656a",
+            "path": "config/CustomNpcs.cfg"
           }
         },
         {
