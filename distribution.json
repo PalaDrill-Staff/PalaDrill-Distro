@@ -426,16 +426,6 @@
           }
         },
         {
-          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.4.2-1.12.2@jar",
-          "name": "Obfuscate",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 129099,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/obfuscate-0.4.2-1.12.2.jar",
-            "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
-          }
-        },
-        {
           "id": "com.mcmoddev:orespawn:3.3.1@jar",
           "name": "OreSpawn",
           "type": "ForgeMod",
