@@ -256,6 +256,16 @@
           ]
         },
         {
+          "id": "zone.rong.mixinbooter:mixinbooter:10.6@jar",
+          "name": "MixinBooter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2382989,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/!mixinbooter-10.6.jar",
+            "MD5": "e9ad05adae6a45286f6f8dabc8a1fc88"
+          }
+        },
+        {
           "id": "panda.endblocks:additionalenderblocks:2.1@jar",
           "name": "Additional Ender Blocks",
           "type": "ForgeMod",
@@ -263,6 +273,16 @@
             "size": 56421,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/AdditionalEnderBlocks-2.1.jar",
             "MD5": "7c0e02e99f98f257a49fc4f0cc696611"
+          }
+        },
+        {
+          "id": "mod.beethoven92:betterendforge:1.1.1@jar",
+          "name": "Better End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 93032874,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/BetterEndForge-Unofficial-GBPort-1.12.2-1.2.3.jar",
+            "MD5": "124a695cbb7562138262c06071464408"
           }
         },
         {
@@ -323,6 +343,16 @@
             "size": 9911871,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/customnpcs-1.12.jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "net.derex.macebackport:mace_backport:5.1.1.1@jar",
+          "name": "Mace",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 226916,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/DerexMaceMod-1.12.2-5.1.1.1.jar",
+            "MD5": "d401ffbdc63d2cd48d91f470ff1e6c01"
           }
         },
         {
@@ -403,6 +433,16 @@
             "size": 705110,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/MMDLib-1.12-1.0.0-rc2.36.jar",
             "MD5": "1b1a3f396adbd9a4cdd7e2c2e743490b"
+          }
+        },
+        {
+          "id": "git.jbredwards.nether_api.mod:nether_api:v1.3.0-mc1.12.2@jar",
+          "name": "Nether API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 230075,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/Nether-API-v1.3.0-mc1.12.2.jar",
+            "MD5": "234635891ddfcbdad9f955f7af17d37d"
           }
         },
         {
