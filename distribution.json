@@ -476,23 +476,13 @@
           }
         },
         {
-          "id": "net.paladrillcapes:paladrillcapes:7.0@jar",
-          "name": "PalaDrillCapes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 24127,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillCapes-7.0-1.12.2.jar",
-            "MD5": "95ab23def38b2cf18263631695325195"
-          }
-        },
-        {
-          "id": "dev.cloudmc:cloudxpaladrill:1.4.1@jar",
+          "id": "dev.cloudmc:cloudxpaladrill:1.5.0@jar",
           "name": "Cloud X PalaDrill Client",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11592093,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillClient-1.5.1-1.12.2.jar",
-            "MD5": "841a41a02f3c8baae7fe60d3c5105cc6"
+            "size": 11623133,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/PalaDrillClient-1.5.0-1.12.2.jar",
+            "MD5": "f2a3c14f8b27c263d99470be4fd4356d"
           }
         },
         {
@@ -576,6 +566,17 @@
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar",
             "MD5": "13f62131ab2fff6212301ee70f6bf5d8",
             "path": "mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar"
+          }
+        },
+        {
+          "id": "links.json",
+          "name": "links.json",
+          "type": "File",
+          "artifact": {
+            "size": 151,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/palaclient/links.json",
+            "MD5": "78791b48d84b4603fb3a3bfa21b60b1e",
+            "path": "palaclient/links.json"
           }
         },
         {
