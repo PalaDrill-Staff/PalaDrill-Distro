@@ -276,6 +276,16 @@
           }
         },
         {
+          "id": "net.smileycorp.atlas:atlaslib:1.1.8@jar",
+          "name": "Atlas Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1247631,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/Atlas-Lib-1.12.2-1.1.8.jar",
+            "MD5": "f83da30e3d22cb3c2a0a0f1bc7ace4c1"
+          }
+        },
+        {
           "id": "mod.beethoven92:betterendforge:1.1.1@jar",
           "name": "Better End",
           "type": "ForgeMod",
@@ -343,6 +353,16 @@
             "size": 9911871,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/customnpcs-1.12.jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "com.deeperdepths:deeperdepths:1.0.3d@jar",
+          "name": "Deeper Depths",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18180663,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/Deeper-Depths-1.12.2-1.0.3d.jar",
+            "MD5": "17ff1246d5ff178fefc46309d4046e86"
           }
         },
         {
