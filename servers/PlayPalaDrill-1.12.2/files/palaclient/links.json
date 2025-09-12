@@ -1,6 +1,6 @@
 {
   "capeVisible": true,
   "earsVisible": true,
-  "api_url": "http://play.paladrill.ovh:50995/cape/",
-  "server_address": "play.paladrill.ovh:25565"
+  "api_url": "https://palasrv.ihorizon.org/cape/",
+  "server_address": "paladrill.ihorizon.org:25565"
 }

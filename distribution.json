@@ -573,9 +573,9 @@
           "name": "links.json",
           "type": "File",
           "artifact": {
-            "size": 151,
+            "size": 152,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/palaclient/links.json",
-            "MD5": "78791b48d84b4603fb3a3bfa21b60b1e",
+            "MD5": "cce3b114d431d8a57ed649cc729532e0",
             "path": "palaclient/links.json"
           }
         },
