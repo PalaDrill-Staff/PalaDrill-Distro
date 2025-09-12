@@ -526,16 +526,6 @@
           }
         },
         {
-          "id": "com.replaymod.core:replaymod:1.12.2-2.6.13@jar",
-          "name": "Replay Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 14311404,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/replaymod-1.12.2-2.6.13.jar",
-            "MD5": "09e2df39fd9f72d74bbeb60fa876b6e9"
-          }
-        },
-        {
           "id": "com.wynprice:secretroomsmod:5.6.4@jar",
           "name": "Secret Rooms 5",
           "type": "ForgeMod",
