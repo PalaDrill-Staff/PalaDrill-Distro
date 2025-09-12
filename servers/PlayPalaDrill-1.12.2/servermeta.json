@@ -1,10 +1,10 @@
 {
-  "$schema": "file:///C:/Users/Administrator/Documents/GitHub/PalaDrill-Distro/schemas/ServerMetaSchema.schema.json",
+  "$schema": "/home/kisakay/Documents/PallaDrill/Distro/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.23",
     "name": "PalaDrill",
     "description": "Play on PalaDrill's Server",
-    "address": "play.paladrill.ovh:25565",
+    "address": "paladrill.ihorizon.org:25565",
     "discord": {
       "shortId": "1066511691048828998",
       "largeImageText": "paladrill",
