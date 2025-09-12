@@ -286,6 +286,16 @@
           }
         },
         {
+          "id": "de.eydamos:backpack:3.0.2-1.12.2@jar",
+          "name": "Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 236435,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/backpack-3.0.2-1.12.2.jar",
+            "MD5": "575669bf0854451ca8e0d2a80869b0c9"
+          }
+        },
+        {
           "id": "mod.beethoven92:betterendforge:1.1.1@jar",
           "name": "Better End",
           "type": "ForgeMod",
