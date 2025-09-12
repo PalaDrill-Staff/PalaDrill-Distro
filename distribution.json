@@ -516,6 +516,16 @@
           }
         },
         {
+          "id": "com.replaymod.core:replaymod:1.12.2-2.6.13@jar",
+          "name": "Replay Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14311404,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/replaymod-1.12.2-2.6.13.jar",
+            "MD5": "09e2df39fd9f72d74bbeb60fa876b6e9"
+          }
+        },
+        {
           "id": "com.wynprice:secretroomsmod:5.6.4@jar",
           "name": "Secret Rooms 5",
           "type": "ForgeMod",
@@ -575,17 +585,6 @@
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/secretroomsmod.cfg",
             "MD5": "f0ff8d8f89b54bce68ddb7b6ec7346b6",
             "path": "config/secretroomsmod.cfg"
-          }
-        },
-        {
-          "id": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
-          "name": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
-          "type": "File",
-          "artifact": {
-            "size": 920264,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar",
-            "MD5": "13f62131ab2fff6212301ee70f6bf5d8",
-            "path": "mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar"
           }
         },
         {
