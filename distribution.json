@@ -286,16 +286,6 @@
           }
         },
         {
-          "id": "de.eydamos:backpack:3.0.2-1.12.2@jar",
-          "name": "Backpack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 236435,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/backpack-3.0.2-1.12.2.jar",
-            "MD5": "575669bf0854451ca8e0d2a80869b0c9"
-          }
-        },
-        {
           "id": "mod.beethoven92:betterendforge:1.1.1@jar",
           "name": "Better End",
           "type": "ForgeMod",
@@ -503,6 +493,16 @@
             "size": 177102,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/orespawn-3.3.1.jar",
             "MD5": "21ff71bc5a8f0b30b26c7fce16f7fe92"
+          }
+        },
+        {
+          "id": "com.supermartijn642:packedup:1.1.0+a@jar",
+          "name": "Packed Up",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 232686,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/packedup-1.1.0a-forge-mc1.12.jar",
+            "MD5": "d7097f6405526f865f35377b1dc6af2e"
           }
         },
         {
