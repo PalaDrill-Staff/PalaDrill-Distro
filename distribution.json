@@ -256,16 +256,6 @@
           ]
         },
         {
-          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18+a@jar",
-          "name": "SuperMartijn642's Core Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1479141,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/_supermartijn642corelib-1.1.18a-forge-mc1.12.jar",
-            "MD5": "31e1666d6e23f93949d20836a75fe2c5"
-          }
-        },
-        {
           "id": "zone.rong.mixinbooter:mixinbooter:10.6@jar",
           "name": "MixinBooter",
           "type": "ForgeMod",
@@ -563,6 +553,16 @@
             "size": 215069,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/stygian-1.0.4.jar",
             "MD5": "bbf08aa306c6b270ec5adea8bdaa3cd9"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.6@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1515334,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/supermartijn642corelib-1.1.6-forge-mc1.12.jar",
+            "MD5": "19cea28847bf1e9f33195099ce4479dc"
           }
         },
         {
