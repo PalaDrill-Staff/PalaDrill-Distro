@@ -286,6 +286,16 @@
           }
         },
         {
+          "id": "de.eydamos:backpack:3.0.2-1.12.2@jar",
+          "name": "Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 236435,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/backpack-3.0.2-1.12.2.jar",
+            "MD5": "575669bf0854451ca8e0d2a80869b0c9"
+          }
+        },
+        {
           "id": "mod.beethoven92:betterendforge:1.1.1@jar",
           "name": "Better End",
           "type": "ForgeMod",
@@ -313,6 +323,16 @@
             "size": 4746208,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/biomesoplenty-7.0.1.jar",
             "MD5": "9d364be3df6fee338c1729b7fb1def1b"
+          }
+        },
+        {
+          "id": "com.blocklings.main:blocklings:6.0.0@jar",
+          "name": "Blocklings Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 388393,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/Blocklings%206.0.0%20-%201.12.2.jar",
+            "MD5": "7f0ad6d4bffb37031882f7e8814be7a9"
           }
         },
         {
