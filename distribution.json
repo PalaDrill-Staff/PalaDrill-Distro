@@ -416,6 +416,16 @@
           }
         },
         {
+          "id": "me.dierke9:discordcraft:2.0@jar",
+          "name": "Minecraft Rich Presence",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642020,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/DiscordCraft-2.0.jar",
+            "MD5": "5e4161cf05e1f40b7f38a188d3a57ef4"
+          }
+        },
+        {
           "id": "io.github.superjedi224:ender_spectre:1.0@jar",
           "name": "Ender Spectres",
           "type": "ForgeMod",
@@ -634,6 +644,28 @@
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/CustomNpcs.cfg",
             "MD5": "f048045a6e9ef9bd4173cf2e562b656a",
             "path": "config/CustomNpcs.cfg"
+          }
+        },
+        {
+          "id": "config.cfg",
+          "name": "config.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 710,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/discordcraft/config.cfg",
+            "MD5": "04d055f8ed16707a85af256a9847e412",
+            "path": "config/discordcraft/config.cfg"
+          }
+        },
+        {
+          "id": "templates.json",
+          "name": "templates.json",
+          "type": "File",
+          "artifact": {
+            "size": 1116,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/discordcraft/templates.json",
+            "MD5": "fe44f88e1ca5e9d7dc88bf50a14a7709",
+            "path": "config/discordcraft/templates.json"
           }
         },
         {
