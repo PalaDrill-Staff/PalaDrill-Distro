@@ -256,6 +256,16 @@
           ]
         },
         {
+          "id": "org.spongepowered.asm.launch:_mixinbootstrap:1.1.0@jar",
+          "name": "_MixinBootstrap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1119478,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/_MixinBootstrap-1.1.0.jar",
+            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
+          }
+        },
+        {
           "id": "zone.rong.mixinbooter:mixinbooter:10.6@jar",
           "name": "MixinBooter",
           "type": "ForgeMod",
@@ -283,6 +293,16 @@
             "size": 56421,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/AdditionalEnderBlocks-2.1.jar",
             "MD5": "7c0e02e99f98f257a49fc4f0cc696611"
+          }
+        },
+        {
+          "id": "com.fuzs:aquaacrobatics:1.15.4@jar",
+          "name": "Aqua Acrobatics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 182194,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/AquaAcrobatics-1.15.4.jar",
+            "MD5": "75fd7a3e86e22a2c546796cdc6621eb4"
           }
         },
         {
@@ -343,6 +363,16 @@
             "size": 388393,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/Blocklings%206.0.0%20-%201.12.2.jar",
             "MD5": "7f0ad6d4bffb37031882f7e8814be7a9"
+          }
+        },
+        {
+          "id": "de.maxhenkel:car:1.12.2-2.0.1@jar",
+          "name": "Ultimate Car Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2907370,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/car-1.12.2-2.0.1.jar",
+            "MD5": "6ec86f5df9950ac739c06df75b0c51df"
           }
         },
         {
@@ -453,6 +483,26 @@
             "size": 1905722,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/EndReborn%20[0.3.9].jar",
             "MD5": "132cbfcae75f66ebc60cd37f1d947bb0"
+          }
+        },
+        {
+          "id": "fr.raksrinana.fallingtree:falling_tree:2.4.0@jar",
+          "name": "Falling Tree",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 168418,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/FallingTree-1.12.2-2.4.0.jar",
+            "MD5": "55c655ebb5f474fea7ab11609fdf584d"
+          }
+        },
+        {
+          "id": "com.yyon.grapplinghook:grapplemod:1.12.2-v13@jar",
+          "name": "Grappling hook mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439274,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/grappling_hook_mod-1.12.2-v13.jar",
+            "MD5": "fa0af376a012c99368f0d7e5ea05358c"
           }
         },
         {
@@ -576,6 +626,16 @@
           }
         },
         {
+          "id": "xyz.przemyk:simpleplanes:1.12.2-3.0.1.7@jar",
+          "name": "Simpleplanes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1827590,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/simpleplanes-1.12.2-3.0.1.7.jar",
+            "MD5": "8b10e7941dff2705b41e2f218ea3b5b4"
+          }
+        },
+        {
           "id": "com.jaquadro.minecraft:storagedrawers:1.12.2-5.4.2@jar",
           "name": "Storage Drawers",
           "type": "ForgeMod",
@@ -603,6 +663,16 @@
             "size": 38883,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/SwordBlockingCombat-v1.2.3-1.12.2.jar",
             "MD5": "4ff2914b45a97bc727916cc12c90f57f"
+          }
+        },
+        {
+          "id": "net.xalcon:torchmaster:1.8.5.0@jar",
+          "name": "TorchMaster",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 156406,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/torchmaster_1.12.2-1.8.5.0.jar",
+            "MD5": "5d242ff1c4bd434f0b865abec8f7b4a0"
           }
         },
         {
