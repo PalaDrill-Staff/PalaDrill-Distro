@@ -506,6 +506,16 @@
           }
         },
         {
+          "id": "icbm.classic:icbmclassic:6.5.4@jar",
+          "name": "ICBM Classic",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3346719,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/ICBM-classic-1.12.2-6.5.4(1).jar",
+            "MD5": "ef2dd8a06f97977d6228c66d7f229dec"
+          }
+        },
+        {
           "id": "cpw.mods:ironchest:1.12.2-7.0.72.847@jar",
           "name": "Iron Chests",
           "type": "ForgeMod",
