@@ -701,9 +701,9 @@
           "name": "config.cfg",
           "type": "File",
           "artifact": {
-            "size": 710,
+            "size": 709,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/files/config/discordcraft/config.cfg",
-            "MD5": "04d055f8ed16707a85af256a9847e412",
+            "MD5": "1615454b1242f81b11959cc9605bc094",
             "path": "config/discordcraft/config.cfg"
           }
         },
