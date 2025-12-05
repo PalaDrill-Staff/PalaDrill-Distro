@@ -616,13 +616,13 @@
           }
         },
         {
-          "id": "net.paladrill:paladrillmod:1.14@jar",
+          "id": "net.paladrill:paladrillmod:1.15@jar",
           "name": "PalaDrillMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1975296,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/paladrillmod-1.14.jar",
-            "MD5": "c84f24f94f262bcabb3a428bc03fe75e"
+            "size": 1976035,
+            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/paladrillmod-v1.15.jar",
+            "MD5": "d9948735d343ee8e838e19156f465fab"
           }
         },
         {
