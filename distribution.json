@@ -276,16 +276,6 @@
           }
         },
         {
-          "id": "com.github.ipixeli:gender:1.7.0(1)@jar",
-          "name": "[1.12.2]Gender",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 172791,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/[1.12.2]Gender-1.7.0(1).jar",
-            "MD5": "c94d1a801d13c92d4ea786d109b119ee"
-          }
-        },
-        {
           "id": "panda.endblocks:additionalenderblocks:2.1@jar",
           "name": "Additional Ender Blocks",
           "type": "ForgeMod",
@@ -503,16 +493,6 @@
             "size": 439274,
             "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/grappling_hook_mod-1.12.2-v13.jar",
             "MD5": "fa0af376a012c99368f0d7e5ea05358c"
-          }
-        },
-        {
-          "id": "icbm.classic:icbmclassic:6.5.4@jar",
-          "name": "ICBM Classic",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3346719,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/ICBM-classic-1.12.2-6.5.4(1).jar",
-            "MD5": "ef2dd8a06f97977d6228c66d7f229dec"
           }
         },
         {
